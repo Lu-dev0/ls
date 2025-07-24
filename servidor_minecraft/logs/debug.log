@@ -6332,3 +6332,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Jul2025 22:41:00.363] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_180 at (-304 | 34 | 1623)
 [24Jul2025 22:43:05.474] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
 [24Jul2025 22:43:05.521] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[24Jul2025 22:43:12.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev fell from a high place
+[24Jul2025 22:43:12.663] [Server thread/DEBUG] [tombstone/]: A new grave of the player Lu_dev was created at position [x:-662, y:60, z:1534, dim:minecraft:overworld]
+[24Jul2025 22:43:20.810] [Server thread/DEBUG] [mixin/]: Mixing gameplay.CooldownInstanceAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[24Jul2025 22:44:12.378] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jul2025 22:44:12.400] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jul2025 22:47:54.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has made the advancement [Ambush]
+[24Jul2025 22:47:54.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has made the advancement [World of illusion]
+[24Jul2025 22:49:12.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jul2025 22:49:12.356] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
