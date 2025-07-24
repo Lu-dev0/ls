@@ -8306,3 +8306,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Jul2025 23:20:30.967] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (-1238 | 13 | 747)
 [24Jul2025 23:20:30.967] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (-1238 | 13 | 747)
 [24Jul2025 23:20:39.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Lu_dev) moved wrongly! 0.33989263589785423
+[24Jul2025 23:24:12.331] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jul2025 23:24:12.352] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jul2025 23:28:33.831] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[24Jul2025 23:28:33.836] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[24Jul2025 23:29:12.326] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jul2025 23:29:12.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jul2025 23:30:22.483] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lu_dev lost connection: Disconnected
+[24Jul2025 23:30:22.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev left the game
+[24Jul2025 23:30:22.487] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Lu_dev
+[24Jul2025 23:30:22.491] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Lu_dev
