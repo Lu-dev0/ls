@@ -474,3 +474,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Jul2025 22:00:20.890] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
 [24Jul2025 22:00:20.898] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
 [24Jul2025 22:00:27.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 was slain by Zombie
+[24Jul2025 22:02:00.791] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-428, y=-6, z=55}
+[24Jul2025 22:02:11.705] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[24Jul2025 22:02:11.710] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[24Jul2025 22:02:17.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev was slain by Zombie
+[24Jul2025 22:04:13.799] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[24Jul2025 22:04:13.818] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[24Jul2025 22:04:21.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev was blown up by Creeper
+[24Jul2025 22:09:48.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has made the advancement [Stone Age]
+[24Jul2025 22:10:46.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [Diamonds!]

@@ -1333,6 +1333,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-07-24 22:00:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-07-24 21:35:33 +0000"
@@ -1390,6 +1396,12 @@
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-07-24 21:26:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-07-24 21:59:46 +0000"
     },
     "done": true
   },
@@ -1501,6 +1513,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-07-24 22:00:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-24 21:26:34 +0000"
@@ -1513,17 +1531,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-24 22:00:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-07-24 21:34:15 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-07-24 21:57:33 +0000"
-    },
-    "done": false
   },
   "biomeswevegone:recipes/transportation/mahogany_boat": {
     "criteria": {
@@ -1645,6 +1663,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-07-24 22:00:09 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/ebony_boat": {
     "criteria": {
       "in_water": "2025-07-24 21:26:28 +0000"
@@ -1684,6 +1708,12 @@
   "biomeswevegone:recipes/transportation/holly_boat": {
     "criteria": {
       "in_water": "2025-07-24 21:26:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-07-24 22:00:09 +0000"
     },
     "done": true
   },
@@ -1729,6 +1759,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-24 22:00:09 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:weeping_witch_forest": "2025-07-24 21:25:02 +0000"
@@ -1759,6 +1795,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-24 22:00:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-07-24 22:00:09 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/florus_boat": {
     "criteria": {
       "in_water": "2025-07-24 21:26:28 +0000"
@@ -1786,6 +1834,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-07-24 21:26:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-07-24 21:59:46 +0000"
     },
     "done": true
   },
@@ -1870,6 +1924,12 @@
   "dungeons_arise:find_mushroom_village": {
     "criteria": {
       "location0": "2025-07-24 21:25:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-24 22:00:09 +0000"
     },
     "done": true
   },
