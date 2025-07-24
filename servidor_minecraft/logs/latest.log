@@ -417,3 +417,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Jul2025 23:10:25.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has made the advancement [Take Aim]
 [24Jul2025 23:12:13.960] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1075, y=29, z=1122}
 [24Jul2025 23:12:35.222] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1197, y=14, z=1088}
+[24Jul2025 23:18:57.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [Isn't It Iron Pick]
+[24Jul2025 23:20:39.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Lu_dev) moved wrongly! 0.33989263589785423

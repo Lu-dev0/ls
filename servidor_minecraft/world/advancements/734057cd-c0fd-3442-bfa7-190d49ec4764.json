@@ -487,7 +487,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-07-24 23:10:28 +0000",
       "minecraft:skeleton": "2025-07-24 21:05:17 +0000",
+      "minecraft:vindicator": "2025-07-24 23:10:46 +0000",
       "minecraft:spider": "2025-07-24 21:05:54 +0000",
       "minecraft:piglin_brute": "2025-07-24 21:30:51 +0000",
       "minecraft:cave_spider": "2025-07-24 21:24:24 +0000",
@@ -1354,9 +1356,11 @@
       "biomeswevegone:forgotten_forest": "2025-07-24 22:43:00 +0000",
       "biomeswevegone:coconino_meadow": "2025-07-24 22:46:40 +0000",
       "biomeswevegone:maple_taiga": "2025-07-24 22:47:23 +0000",
+      "biomeswevegone:orchard": "2025-07-24 23:13:50 +0000",
       "biomeswevegone:weeping_witch_forest": "2025-07-24 21:24:18 +0000",
       "biomeswevegone:aspen_boreal": "2025-07-24 22:45:44 +0000",
-      "biomeswevegone:skyrise_vale": "2025-07-24 22:15:13 +0000"
+      "biomeswevegone:skyrise_vale": "2025-07-24 22:15:13 +0000",
+      "biomeswevegone:allium_shrubland": "2025-07-24 23:13:10 +0000"
     },
     "done": false
   },
@@ -2140,6 +2144,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-24 23:10:25 +0000"
+    },
+    "done": true
+  },
   "morebows:recipes/stone_bow": {
     "criteria": {
       "has_bow": "2025-07-24 22:48:10 +0000"
@@ -2319,6 +2329,12 @@
       "has_sand": "2025-07-24 23:03:52 +0000"
     },
     "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2025-07-24 23:11:13 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
