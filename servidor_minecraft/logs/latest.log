@@ -460,3 +460,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Jul2025 21:46:29.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sele207) moved wrongly! 0.7776277696048624
 [24Jul2025 21:46:29.863] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sele207) moved wrongly! 0.3984828721385725
 [24Jul2025 21:46:30.162] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Lu_dev) moved wrongly! 0.439486329920328
+[24Jul2025 21:53:32.538] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lu_dev lost connection: Disconnected
+[24Jul2025 21:53:32.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev left the game
+[24Jul2025 21:53:32.543] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Lu_dev
+[24Jul2025 21:57:08.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [Ashes 'n Bones]
+[24Jul2025 21:57:58.687] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[24Jul2025 21:57:58.691] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[24Jul2025 21:58:04.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 was slain by Spider
+[24Jul2025 21:59:01.451] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lu_dev[/127.71.179.52:56679] logged in with entity id 28778 at (-330.4682976452693, 62.073264324665075, 386.7820794117801)
+[24Jul2025 21:59:01.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev joined the game
+[24Jul2025 21:59:03.854] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Lu_dev (18)
+[24Jul2025 21:59:03.855] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Lu_dev
+[24Jul2025 22:00:20.890] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[24Jul2025 22:00:20.898] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[24Jul2025 22:00:27.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 was slain by Zombie
