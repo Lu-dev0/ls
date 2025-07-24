@@ -631,9 +631,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:piglin_brute": "2025-07-24 21:29:02 +0000",
       "minecraft:husk": "2025-07-24 21:12:53 +0000",
       "minecraft:piglin": "2025-07-24 21:27:31 +0000",
-      "minecraft:zombie": "2025-07-24 21:00:24 +0000"
+      "minecraft:zombie": "2025-07-24 21:00:24 +0000",
+      "minecraft:zombie_villager": "2025-07-24 21:28:44 +0000"
     },
     "done": false
   },
@@ -719,14 +721,16 @@
     "criteria": {
       "minecraft:beach": "2025-07-24 21:25:27 +0000",
       "minecraft:dark_forest": "2025-07-24 21:05:29 +0000",
-      "minecraft:ocean": "2025-07-24 21:25:53 +0000"
+      "minecraft:ocean": "2025-07-24 21:25:53 +0000",
+      "minecraft:old_growth_birch_forest": "2025-07-24 21:33:16 +0000"
     },
     "done": false
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-07-24 21:25:29 +0000",
-      "melon_slice": "2025-07-24 21:05:43 +0000"
+      "melon_slice": "2025-07-24 21:05:43 +0000",
+      "cooked_salmon": "2025-07-24 21:36:27 +0000"
     },
     "done": false
   },
@@ -852,6 +856,7 @@
   },
   "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
     "criteria": {
+      "apple": "2025-07-24 21:35:51 +0000",
       "golden_apple": "2025-07-24 21:08:54 +0000"
     },
     "done": false
@@ -1234,9 +1239,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-07-24 21:34:15 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/echo_boat": {
     "criteria": {
       "in_water": "2025-07-24 21:26:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-24 21:35:33 +0000"
     },
     "done": true
   },
@@ -1246,15 +1263,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-24 21:35:33 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-07-24 21:26:28 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-24 21:35:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-24 21:35:33 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/white_sand": {
     "criteria": {
       "has_sand": "2025-07-24 21:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-24 21:35:33 +0000"
     },
     "done": true
   },
@@ -1270,9 +1311,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-24 21:35:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-24 21:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-07-24 21:34:15 +0000"
     },
     "done": true
   },
@@ -1282,15 +1335,39 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-07-24 21:29:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-07-24 21:26:28 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-24 21:35:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2025-07-24 21:26:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-07-24 21:34:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-24 21:35:33 +0000"
     },
     "done": true
   },
@@ -1312,6 +1389,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-07-24 21:34:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-24 21:26:34 +0000"
@@ -1321,6 +1404,18 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-24 21:26:34 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/food/golden_apple_from_green_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-24 21:35:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-07-24 21:34:15 +0000"
     },
     "done": true
   },
@@ -1342,6 +1437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-24 21:35:33 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/aspen_boat": {
     "criteria": {
       "in_water": "2025-07-24 21:26:28 +0000"
@@ -1351,6 +1452,18 @@
   "biomeswevegone:recipes/transportation/skyris_boat": {
     "criteria": {
       "in_water": "2025-07-24 21:26:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-24 21:35:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-24 21:36:13 +0000"
     },
     "done": true
   },
@@ -1387,6 +1500,12 @@
   "biomeswevegone:recipes/transportation/white_mangrove_boat": {
     "criteria": {
       "in_water": "2025-07-24 21:26:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-07-24 21:34:15 +0000"
     },
     "done": true
   },
@@ -1432,6 +1551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-07-24 21:34:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-24 21:26:34 +0000"
@@ -1468,6 +1593,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-24 21:35:33 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/sakura_boat": {
     "criteria": {
       "in_water": "2025-07-24 21:26:28 +0000"
@@ -1479,6 +1610,12 @@
       "biomeswevegone:weeping_witch_forest": "2025-07-24 21:25:02 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-07-24 21:35:43 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
@@ -1570,6 +1707,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-07-24 21:34:15 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/ironwood_boat": {
     "criteria": {
       "in_water": "2025-07-24 21:26:28 +0000"
@@ -1600,9 +1743,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-24 21:35:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-07-24 21:26:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-24 21:35:33 +0000"
     },
     "done": true
   },
