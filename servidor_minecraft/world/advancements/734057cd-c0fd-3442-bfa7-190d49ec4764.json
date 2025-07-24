@@ -43,9 +43,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2025-07-24 21:47:33 +0000",
       "log_spam_fixer": "2025-07-24 21:01:12 +0000"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/root": {
     "criteria": {
@@ -492,7 +493,8 @@
       "minecraft:piglin_brute": "2025-07-24 21:30:51 +0000",
       "minecraft:cave_spider": "2025-07-24 21:24:24 +0000",
       "minecraft:piglin": "2025-07-24 21:29:18 +0000",
-      "minecraft:zombie": "2025-07-24 21:06:56 +0000"
+      "minecraft:zombie": "2025-07-24 21:06:56 +0000",
+      "minecraft:drowned": "2025-07-24 21:47:28 +0000"
     },
     "done": false
   },
@@ -518,6 +520,7 @@
     "criteria": {
       "minecraft:beach": "2025-07-24 21:24:30 +0000",
       "minecraft:dark_forest": "2025-07-24 21:05:32 +0000",
+      "minecraft:river": "2025-07-24 21:46:16 +0000",
       "minecraft:ocean": "2025-07-24 21:26:00 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-24 21:29:16 +0000"
     },
@@ -537,6 +540,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-07-24 21:37:37 +0000",
       "bread": "2025-07-24 21:35:34 +0000",
       "melon_slice": "2025-07-24 21:05:51 +0000"
     },
@@ -1352,15 +1356,51 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/sakura_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-24 21:45:45 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-07-24 21:25:44 +0000"
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-24 21:45:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-07-24 21:39:02 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-24 21:45:45 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/bloom_boat": {
     "criteria": {
       "in_water": "2025-07-24 21:25:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-24 21:45:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-24 21:45:45 +0000"
     },
     "done": true
   },
@@ -1373,6 +1413,18 @@
   "biomeswevegone:recipes/transportation/pine_boat": {
     "criteria": {
       "in_water": "2025-07-24 21:25:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/ebony_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-24 21:45:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-24 21:45:45 +0000"
     },
     "done": true
   },
@@ -1394,6 +1446,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-24 21:45:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2025-07-24 21:25:44 +0000"
@@ -1403,6 +1461,18 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-07-24 21:34:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-24 21:45:45 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/zelkova_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-24 21:45:45 +0000"
     },
     "done": true
   },
@@ -1418,6 +1488,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/ironwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-24 21:45:45 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2025-07-24 21:34:34 +0000"
@@ -1427,6 +1503,36 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-07-24 21:31:45 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/bloom_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-24 21:45:45 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/green_enchanted_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-24 21:45:45 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-24 21:45:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-07-24 21:45:45 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-24 21:45:45 +0000"
     },
     "done": true
   },
@@ -1463,6 +1569,12 @@
   "biomeswevegone:recipes/transportation/aspen_boat": {
     "criteria": {
       "in_water": "2025-07-24 21:25:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-24 21:45:45 +0000"
     },
     "done": true
   },
@@ -1556,6 +1668,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/cika_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-24 21:45:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-07-24 21:36:24 +0000"
@@ -1592,9 +1710,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-24 21:45:45 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-24 21:45:45 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/florus_boat": {
     "criteria": {
       "in_water": "2025-07-24 21:25:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/florus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-24 21:45:45 +0000"
     },
     "done": true
   },
@@ -1610,15 +1746,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-24 21:45:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-24 21:45:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-07-24 21:25:44 +0000"
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/baobab_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-24 21:45:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-07-24 21:24:35 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-24 21:45:45 +0000"
     },
     "done": true
   },
@@ -1640,9 +1800,27 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/blue_enchanted_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-24 21:45:45 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2025-07-24 21:25:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/witch_hazel_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-24 21:45:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-24 21:45:45 +0000"
     },
     "done": true
   },
@@ -1658,6 +1836,18 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/skyris_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-24 21:45:45 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-24 21:45:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2025-07-24 21:25:11 +0000"
@@ -1667,6 +1857,12 @@
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-07-24 21:24:35 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/white_mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-24 21:45:45 +0000"
     },
     "done": true
   },
@@ -1694,6 +1890,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/rainbow_eucalyptus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-24 21:45:45 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/ironwood_boat": {
     "criteria": {
       "in_water": "2025-07-24 21:25:44 +0000"
@@ -1712,6 +1914,18 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-24 21:45:45 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/aspen_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-24 21:45:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-07-24 21:25:44 +0000"
@@ -1721,6 +1935,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-07-24 21:31:45 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/holly_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-24 21:45:45 +0000"
     },
     "done": true
   },
