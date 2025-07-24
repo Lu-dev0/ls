@@ -1376,3 +1376,42 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Jul2025 21:06:18.260] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
 [24Jul2025 21:06:18.270] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
 [24Jul2025 21:06:18.270] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[24Jul2025 21:06:29.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev was blown up by Creeper
+[24Jul2025 21:06:29.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has made the advancement [Your First Grave]
+[24Jul2025 21:06:30.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has made the advancement [The Most Useful Key]
+[24Jul2025 21:06:37.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has made the advancement [Knowledge of Death]
+[24Jul2025 21:06:37.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has reached the goal [A Fast Comeback]
+[24Jul2025 21:07:50.095] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[24Jul2025 21:07:50.097] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[24Jul2025 21:07:50.434] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[24Jul2025 21:07:50.443] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[24Jul2025 21:08:02.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev was slain by Husk
+[24Jul2025 21:08:05.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 was shot by Skeleton
+[24Jul2025 21:08:05.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [Your First Grave]
+[24Jul2025 21:08:06.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [The Most Useful Key]
+[24Jul2025 21:08:13.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has reached the goal [A Fast Comeback]
+[24Jul2025 21:08:21.834] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[24Jul2025 21:08:21.843] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[24Jul2025 21:08:28.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has reached the goal [Chain Death]
+[24Jul2025 21:08:28.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev was slain by Husk
+[24Jul2025 21:08:38.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has reached the goal [Here They Come]
+[24Jul2025 21:08:42.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has made the advancement [Suit Up]
+[24Jul2025 21:08:42.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has made the advancement [Acquire Hardware]
+[24Jul2025 21:08:47.035] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[24Jul2025 21:08:47.043] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[24Jul2025 21:08:52.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [Suit Up]
+[24Jul2025 21:08:55.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev was slain by Husk
+[24Jul2025 21:09:19.755] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[24Jul2025 21:09:19.756] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[24Jul2025 21:09:25.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev was doomed to fall by Husk
+[24Jul2025 21:09:51.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [Acquire Hardware]
+[24Jul2025 21:12:42.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [Not Today, Thank You]
+[24Jul2025 21:12:56.036] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[24Jul2025 21:12:56.052] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[24Jul2025 21:13:02.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 was slain by Husk
+[24Jul2025 21:13:13.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has reached the goal [Here They Come]
+[24Jul2025 21:13:27.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has made the advancement [Not Today, Thank You]
+[24Jul2025 21:13:31.235] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[24Jul2025 21:13:31.248] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[24Jul2025 21:13:40.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has reached the goal [Chain Death]
+[24Jul2025 21:13:40.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 was slain by Husk
