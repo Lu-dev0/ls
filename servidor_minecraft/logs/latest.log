@@ -1357,3 +1357,22 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Jul2025 20:49:27.861] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sele207 (18)
 [24Jul2025 20:49:27.863] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sele207
 [24Jul2025 20:50:23.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [Alex's Mobs]
+[24Jul2025 20:55:47.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [Stone Age]
+[24Jul2025 20:56:42.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [Getting an Upgrade]
+[24Jul2025 21:00:24.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [Monster Hunter]
+[24Jul2025 21:00:55.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [A Strange Grave Dust]
+[24Jul2025 21:01:11.508] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lu_dev[/127.71.179.52:44001] logged in with entity id 5015 at (-3.5, 91.0, -2.5)
+[24Jul2025 21:01:11.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev joined the game
+[24Jul2025 21:01:11.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has made the advancement [Orcz Challenges]
+[24Jul2025 21:01:13.551] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Lu_dev (18)
+[24Jul2025 21:01:13.551] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Lu_dev
+[24Jul2025 21:03:55.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has made the advancement [Getting an Upgrade]
+[24Jul2025 21:04:11.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [Knowledge of Death]
+[24Jul2025 21:04:11.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [Funeral Theft]
+[24Jul2025 21:05:17.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has made the advancement [Monster Hunter]
+[24Jul2025 21:05:52.114] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[24Jul2025 21:05:52.117] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[24Jul2025 21:06:18.259] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[24Jul2025 21:06:18.260] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[24Jul2025 21:06:18.270] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[24Jul2025 21:06:18.270] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
