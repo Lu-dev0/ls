@@ -408,3 +408,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Jul2025 22:43:12.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev fell from a high place
 [24Jul2025 22:47:54.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has made the advancement [Ambush]
 [24Jul2025 22:47:54.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has made the advancement [World of illusion]
+[24Jul2025 22:54:56.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lu_dev moved too quickly! -7.130499091633283,-1.0,-7.207562200560687
