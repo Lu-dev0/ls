@@ -1,3 +1,5 @@
 [25Jul2025 00:04:07.475] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
 [25Jul2025 00:04:07.485] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
 [25Jul2025 00:04:17.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 was slain by Tiger
+[25Jul2025 00:27:41.638] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-428, y=-6, z=55}
+[25Jul2025 00:27:41.638] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-428, y=-6, z=54}
