@@ -3356,81 +3356,118 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 23:10:12 +0000"
+      "has_diorite": "2025-07-25 23:15:12 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 23:10:12 +0000"
+      "has_raw_iron": "2025-07-25 23:13:43 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 23:10:12 +0000"
+      "has_diorite": "2025-07-25 23:15:12 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_stairs_woodcutting": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 23:10:12 +0000"
+      "give_recipe": "2025-07-25 23:10:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 23:10:12 +0000"
+      "has_diorite": "2025-07-25 23:15:12 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 23:10:12 +0000"
+      "has_stone": "2025-07-25 23:15:12 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 23:10:12 +0000"
+      "has_raw_iron": "2025-07-25 23:13:43 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:husbandry/axolotl_in_a_bucket": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 23:10:12 +0000"
+      "axolotl_bucket": "2025-07-25 23:18:37 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 23:10:12 +0000"
+      "has_diorite": "2025-07-25 23:15:12 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 23:10:12 +0000"
+      "has_diorite": "2025-07-25 23:15:12 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "minecraft:recipes/woodcutting/oak/oak_slab_from_oak_stairs_woodcutting_combine": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 23:10:12 +0000"
+      "give_recipe": "2025-07-25 23:10:59 +0000",
+      "has_block": "2025-07-25 23:10:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 23:10:12 +0000"
+      "has_diorite": "2025-07-25 23:15:12 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-07-25 23:13:43 +0000"
+    },
+    "done": true
   },
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-07-25 23:09:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-07-25 23:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-25 23:15:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-25 23:15:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-25 23:15:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-07-25 23:15:12 +0000"
     },
     "done": true
   },
