@@ -411,3 +411,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25Jul2025 21:12:01.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [Safe Haven]
 [25Jul2025 21:13:10.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has made the advancement [Safe Haven]
 [25Jul2025 21:13:15.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [Call For Adventure]
+[25Jul2025 21:23:11.020] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[25Jul2025 21:23:11.029] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[25Jul2025 21:23:17.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev was slain by Skeleton
+[25Jul2025 21:24:18.434] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[25Jul2025 21:24:18.440] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[25Jul2025 21:24:26.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev was slain by Skeleton
+[25Jul2025 21:24:55.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has reached the goal [Bone Crusher]
+[25Jul2025 21:24:57.975] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[25Jul2025 21:24:57.977] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[25Jul2025 21:25:12.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev was slain by Skeleton
+[25Jul2025 21:27:24.368] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[25Jul2025 21:27:24.369] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[25Jul2025 21:27:24.389] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[25Jul2025 21:27:24.390] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[25Jul2025 21:27:29.736] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8442ms or 168 ticks behind
+[25Jul2025 21:29:12.429] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[25Jul2025 21:29:12.433] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved

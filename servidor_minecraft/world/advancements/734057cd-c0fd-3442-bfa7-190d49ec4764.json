@@ -2717,6 +2717,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-07-25 21:21:08 +0000"
+    },
+    "done": true
+  },
   "nova_structures:adventure/find_tavern": {
     "criteria": {
       "nova_structures:tavern_jungle": "2025-07-25 21:13:10 +0000"
@@ -2744,6 +2750,18 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-07-25 21:05:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-07-25 21:24:55 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-07-25 21:16:34 +0000"
     },
     "done": true
   },
