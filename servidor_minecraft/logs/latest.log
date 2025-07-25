@@ -399,3 +399,32 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25Jul2025 18:57:10.725] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sele207
 [25Jul2025 18:57:15.545] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-428, y=-6, z=54}
 [25Jul2025 18:57:15.547] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-428, y=-6, z=55}
+[25Jul2025 19:05:05.350] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=326, y=-48, z=54}
+[25Jul2025 19:05:05.351] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=326, y=-48, z=52}
+[25Jul2025 19:05:07.240] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=336, y=23, z=341}
+[25Jul2025 19:05:58.144] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lu_dev lost connection: Disconnected
+[25Jul2025 19:05:58.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev left the game
+[25Jul2025 19:05:58.150] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Lu_dev
+[25Jul2025 19:05:58.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [Mine? Mine? Mine?]
+[25Jul2025 19:06:03.792] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sele207 lost connection: Disconnected
+[25Jul2025 19:06:03.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 left the game
+[25Jul2025 19:06:03.793] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sele207
+[25Jul2025 19:06:12.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[25Jul2025 19:06:12.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25Jul2025 19:06:12.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25Jul2025 19:06:12.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25Jul2025 19:06:13.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[25Jul2025 19:06:15.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[25Jul2025 19:06:15.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[25Jul2025 19:06:15.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[25Jul2025 19:06:15.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[25Jul2025 19:06:15.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Jul2025 19:06:15.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[25Jul2025 19:06:15.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Jul2025 19:06:15.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[25Jul2025 19:06:15.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Jul2025 19:06:15.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[25Jul2025 19:06:15.258] [Server thread/INFO] [Framework/]: Unloading server configs...
+[25Jul2025 19:06:15.259] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[25Jul2025 19:06:15.262] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[25Jul2025 19:06:15.267] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
