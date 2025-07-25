@@ -736,6 +736,7 @@
     "criteria": {
       "cooked_beef": "2025-07-24 22:32:03 +0000",
       "baked_potato": "2025-07-25 21:06:10 +0000",
+      "apple": "2025-07-25 21:28:53 +0000",
       "bread": "2025-07-24 21:25:29 +0000",
       "melon_slice": "2025-07-24 21:05:43 +0000",
       "cooked_salmon": "2025-07-24 21:36:27 +0000"
@@ -3162,9 +3163,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-25 21:32:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-07-25 21:03:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-07-25 21:32:23 +0000"
     },
     "done": true
   },
@@ -3207,6 +3220,12 @@
   "biomeswevegone:recipes/redstone/rainbow_eucalyptus_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-25 21:19:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-07-25 21:35:04 +0000"
     },
     "done": true
   },
@@ -3321,6 +3340,18 @@
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-07-25 21:23:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-07-25 21:26:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-25 21:32:23 +0000"
     },
     "done": true
   },
