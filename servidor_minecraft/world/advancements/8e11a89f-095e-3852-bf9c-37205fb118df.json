@@ -637,6 +637,7 @@
       "minecraft:witch": "2025-07-25 23:09:13 +0000",
       "minecraft:husk": "2025-07-24 21:12:53 +0000",
       "minecraft:piglin": "2025-07-24 21:27:31 +0000",
+      "minecraft:enderman": "2025-07-25 23:44:06 +0000",
       "minecraft:zombie": "2025-07-24 21:00:24 +0000",
       "minecraft:zombie_villager": "2025-07-24 21:28:44 +0000"
     },
@@ -3362,6 +3363,12 @@
     },
     "done": true
   },
+  "morebows:recipes/iron_bow": {
+    "criteria": {
+      "has_bow": "2025-07-25 23:41:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "cod": "2025-07-25 23:35:24 +0000"
@@ -3398,6 +3405,12 @@
     },
     "done": true
   },
+  "morebows:recipes/stone_bow": {
+    "criteria": {
+      "has_bow": "2025-07-25 23:41:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-25 23:24:07 +0000"
@@ -3425,6 +3438,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-25 23:15:12 +0000"
+    },
+    "done": true
+  },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_pearl": "2025-07-25 23:44:07 +0000"
     },
     "done": true
   },
@@ -3464,9 +3483,21 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-07-25 23:50:12 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-07-25 23:15:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-25 23:41:08 +0000"
     },
     "done": true
   },
@@ -3518,6 +3549,12 @@
     },
     "done": true
   },
+  "morebows:recipes/gold_bow": {
+    "criteria": {
+      "has_bow": "2025-07-25 23:41:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_slab_from_oak_stairs_woodcutting_combine": {
     "criteria": {
       "give_recipe": "2025-07-25 23:10:59 +0000",
@@ -3543,6 +3580,12 @@
     },
     "done": true
   },
+  "morebows:recipes/diamond_bow": {
+    "criteria": {
+      "has_bow": "2025-07-25 23:41:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-07-25 23:33:13 +0000"
@@ -3552,6 +3595,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-25 23:24:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-25 23:41:08 +0000"
     },
     "done": true
   },

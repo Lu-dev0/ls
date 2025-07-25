@@ -496,6 +496,7 @@
       "minecraft:creeper": "2025-07-24 23:24:10 +0000",
       "minecraft:cave_spider": "2025-07-24 21:24:24 +0000",
       "minecraft:piglin": "2025-07-24 21:29:18 +0000",
+      "minecraft:enderman": "2025-07-25 23:45:21 +0000",
       "minecraft:stray": "2025-07-25 23:10:38 +0000",
       "minecraft:zombie": "2025-07-24 21:06:56 +0000",
       "minecraft:drowned": "2025-07-24 21:47:28 +0000"
@@ -555,7 +556,8 @@
       "apple": "2025-07-24 21:37:37 +0000",
       "bread": "2025-07-24 21:35:34 +0000",
       "rotten_flesh": "2025-07-24 23:29:11 +0000",
-      "melon_slice": "2025-07-24 21:05:51 +0000"
+      "melon_slice": "2025-07-24 21:05:51 +0000",
+      "cod": "2025-07-25 23:43:07 +0000"
     },
     "done": false
   },
@@ -2950,6 +2952,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-25 23:42:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_trapdoor_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-25 23:18:02 +0000"
@@ -2968,6 +2976,24 @@
     },
     "done": true
   },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_pearl": "2025-07-25 23:45:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-25 23:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-25 23:42:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/barrel_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-25 23:18:02 +0000"
@@ -2977,6 +3003,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-07-25 23:18:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-25 23:42:41 +0000"
     },
     "done": true
   },
@@ -3052,6 +3084,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/stripped_oak_log_from_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-25 23:41:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-07-25 23:41:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-07-25 23:11:05 +0000"
@@ -3061,6 +3105,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-07-25 23:11:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-25 23:41:40 +0000"
     },
     "done": true
   },
@@ -3118,6 +3168,13 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_slab_from_oak_stairs_woodcutting_combine": {
+    "criteria": {
+      "give_recipe": "2025-07-25 23:41:38 +0000",
+      "has_block": "2025-07-25 23:41:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-07-25 23:28:14 +0000"
@@ -3136,6 +3193,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-25 23:41:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_door_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-25 23:18:02 +0000"
@@ -3151,6 +3214,12 @@
   "minecraft:recipes/woodcutting/oak/oak_fence_gate_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-25 23:18:02 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:recipes/redstone/copper_button": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-25 23:42:41 +0000"
     },
     "done": true
   },
@@ -3205,6 +3274,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-07-25 23:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_the_recipe": "2025-07-25 23:42:40 +0000"
     },
     "done": true
   },
