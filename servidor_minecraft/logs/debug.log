@@ -10199,3 +10199,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25Jul2025 21:42:04.178] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Lu_dev
 [25Jul2025 21:45:15.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25Jul2025 21:45:15.674] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jul2025 21:50:15.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jul2025 21:50:15.677] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jul2025 21:55:15.660] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jul2025 21:55:15.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jul2025 21:58:27.213] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[25Jul2025 21:58:27.215] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[25Jul2025 21:59:27.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 was shot by Skeleton
+[25Jul2025 21:59:27.166] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sele207 was created at position [x:1164, y:50, z:-349, dim:minecraft:overworld]
