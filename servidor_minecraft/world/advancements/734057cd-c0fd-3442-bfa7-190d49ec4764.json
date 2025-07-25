@@ -550,6 +550,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-07-25 23:08:53 +0000",
       "apple": "2025-07-24 21:37:37 +0000",
       "bread": "2025-07-24 21:35:34 +0000",
       "rotten_flesh": "2025-07-24 23:29:11 +0000",
@@ -2714,88 +2715,99 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/misc/white_dye_from_bwg_dye_tag": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 21:41:16 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-07-25 21:41:17 +0000",
-      "log_spam_fixer": "2025-07-25 21:41:16 +0000"
+      "has_dye_tag": "2025-07-25 21:01:40 +0000"
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 21:41:16 +0000"
+      "has_raw_iron": "2025-07-25 21:05:17 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 21:41:16 +0000"
+      "has_raw_iron": "2025-07-25 21:05:17 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 21:41:16 +0000"
+      "has_raw_iron": "2025-07-25 21:05:17 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "tombstone:adventure/strong_or_careful": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 21:41:16 +0000"
+      "coded_trigger": "2025-07-25 21:06:20 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "nova_structures:adventure/find_tavern": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 21:41:16 +0000"
+      "nova_structures:tavern_jungle": "2025-07-25 21:13:10 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "nova_structures:root": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 21:41:16 +0000"
+      "nova_structures:adventure/find_tavern": "2025-07-25 21:13:10 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "dungeons_arise:find_small_blimp": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 21:41:16 +0000"
+      "location0": "2025-07-25 21:16:34 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:recipes/misc/coal": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 21:41:16 +0000"
+      "has_coal_block": "2025-07-25 21:21:08 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "tombstone:adventure/bone_crusher": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 21:41:16 +0000"
+      "coded_trigger": "2025-07-25 21:24:55 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "simplyswords:simplyswords": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 21:41:16 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_chest_boat_from_spruce_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-25 21:30:01 +0000"
+      "requirement": "2025-07-25 21:27:54 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/smooth_quartz_slab": {
     "criteria": {
       "has_smooth_quartz": "2025-07-25 21:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-25 21:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-25 21:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-25 21:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_chest_boat_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-25 21:30:01 +0000"
     },
     "done": true
   },
@@ -2808,18 +2820,6 @@
   "minecraft:recipes/woodcutting/spruce/spruce_pressure_plate_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-25 21:30:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_iron_block": {
-    "criteria": {
-      "has_raw_iron": "2025-07-25 21:05:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2025-07-25 21:21:08 +0000"
     },
     "done": true
   },
@@ -2847,45 +2847,9 @@
     },
     "done": true
   },
-  "nova_structures:adventure/find_tavern": {
-    "criteria": {
-      "nova_structures:tavern_jungle": "2025-07-25 21:13:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/spruce/crafting_table_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-25 21:30:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2025-07-25 21:05:17 +0000"
-    },
-    "done": true
-  },
-  "tombstone:recipes/from_grave_dust": {
-    "criteria": {
-      "has_ingredient": "2025-07-25 21:34:07 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/strong_or_careful": {
-    "criteria": {
-      "coded_trigger": "2025-07-25 21:06:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
-    "criteria": {
-      "has_smooth_quartz": "2025-07-25 21:29:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
-    "criteria": {
-      "has_smooth_quartz": "2025-07-25 21:29:45 +0000"
     },
     "done": true
   },
@@ -2907,57 +2871,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
-    "criteria": {
-      "has_smooth_quartz": "2025-07-25 21:29:45 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:root": {
-    "criteria": {
-      "nova_structures:adventure/find_tavern": "2025-07-25 21:13:10 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:simplyswords": {
-    "criteria": {
-      "requirement": "2025-07-25 21:27:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2025-07-25 21:05:17 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/bone_crusher": {
-    "criteria": {
-      "coded_trigger": "2025-07-25 21:24:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-25 21:30:01 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_small_blimp": {
-    "criteria": {
-      "location0": "2025-07-25 21:16:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/spruce/spruce_fence_gate_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-25 21:30:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye_from_bwg_dye_tag": {
-    "criteria": {
-      "has_dye_tag": "2025-07-25 21:01:40 +0000"
     },
     "done": true
   },
@@ -2970,6 +2892,18 @@
   "minecraft:recipes/woodcutting/spruce/spruce_fence_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-25 21:30:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-07-25 21:34:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-25 23:07:18 +0000"
     },
     "done": true
   },
