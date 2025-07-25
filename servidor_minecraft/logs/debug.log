@@ -5213,3 +5213,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25Jul2025 23:30:12.185] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25Jul2025 23:30:12.205] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [25Jul2025 23:30:32.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has made the advancement [Isn't It Iron Pick]
+[25Jul2025 23:35:12.185] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jul2025 23:35:12.205] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jul2025 23:35:24.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [Fishy Business]
+[25Jul2025 23:40:12.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jul2025 23:40:12.201] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
