@@ -8366,3 +8366,32 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25Jul2025 01:09:12.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [25Jul2025 01:14:12.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25Jul2025 01:14:12.329] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jul2025 01:16:15.576] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sele207 lost connection: Disconnected
+[25Jul2025 01:16:15.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 left the game
+[25Jul2025 01:16:15.576] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Sele207
+[25Jul2025 01:16:15.577] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sele207
+[25Jul2025 01:16:15.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[25Jul2025 01:16:15.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25Jul2025 01:16:15.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25Jul2025 01:16:15.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25Jul2025 01:16:15.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[25Jul2025 01:16:15.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[25Jul2025 01:16:15.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[25Jul2025 01:16:15.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[25Jul2025 01:16:15.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[25Jul2025 01:16:16.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jul2025 01:16:16.023] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jul2025 01:16:16.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Jul2025 01:16:16.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Jul2025 01:16:16.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Jul2025 01:16:16.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[25Jul2025 01:16:16.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[25Jul2025 01:16:16.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[25Jul2025 01:16:16.204] [Server thread/INFO] [Framework/]: Unloading server configs...
+[25Jul2025 01:16:16.206] [Server thread/DEBUG] [Framework/]: Stopped watching config: /workspaces/ls/servidor_minecraft/config/goblintraders-entities.toml
+[25Jul2025 01:16:16.206] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[25Jul2025 01:16:16.208] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[25Jul2025 01:16:16.208] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[25Jul2025 01:16:16.208] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[25Jul2025 01:16:16.208] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[25Jul2025 01:16:16.212] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

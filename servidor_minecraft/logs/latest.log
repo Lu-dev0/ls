@@ -3,3 +3,25 @@
 [25Jul2025 00:04:17.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 was slain by Tiger
 [25Jul2025 00:27:41.638] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-428, y=-6, z=55}
 [25Jul2025 00:27:41.638] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-428, y=-6, z=54}
+[25Jul2025 01:16:15.576] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sele207 lost connection: Disconnected
+[25Jul2025 01:16:15.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 left the game
+[25Jul2025 01:16:15.577] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sele207
+[25Jul2025 01:16:15.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[25Jul2025 01:16:15.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25Jul2025 01:16:15.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25Jul2025 01:16:15.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25Jul2025 01:16:15.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[25Jul2025 01:16:15.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[25Jul2025 01:16:15.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[25Jul2025 01:16:15.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[25Jul2025 01:16:15.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[25Jul2025 01:16:16.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Jul2025 01:16:16.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Jul2025 01:16:16.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Jul2025 01:16:16.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[25Jul2025 01:16:16.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[25Jul2025 01:16:16.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[25Jul2025 01:16:16.204] [Server thread/INFO] [Framework/]: Unloading server configs...
+[25Jul2025 01:16:16.206] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[25Jul2025 01:16:16.208] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[25Jul2025 01:16:16.212] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
