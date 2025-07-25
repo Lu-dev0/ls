@@ -527,7 +527,9 @@
       "minecraft:dark_forest": "2025-07-24 21:05:32 +0000",
       "minecraft:river": "2025-07-24 21:46:16 +0000",
       "minecraft:stony_shore": "2025-07-24 22:54:20 +0000",
+      "minecraft:lush_caves": "2025-07-25 21:13:19 +0000",
       "minecraft:ocean": "2025-07-24 21:26:00 +0000",
+      "minecraft:jungle": "2025-07-25 21:08:00 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-24 21:29:16 +0000"
     },
     "done": false
@@ -1362,6 +1364,7 @@
       "biomeswevegone:lush_stacks": "2025-07-25 19:03:00 +0000",
       "biomeswevegone:maple_taiga": "2025-07-24 22:47:23 +0000",
       "biomeswevegone:orchard": "2025-07-24 23:13:50 +0000",
+      "biomeswevegone:amaranth_grassland": "2025-07-25 21:07:17 +0000",
       "biomeswevegone:weeping_witch_forest": "2025-07-24 21:24:18 +0000",
       "biomeswevegone:aspen_boreal": "2025-07-24 22:45:44 +0000",
       "biomeswevegone:skyrise_vale": "2025-07-24 22:15:13 +0000",
@@ -2705,6 +2708,42 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-07-25 19:03:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-07-25 21:05:17 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_jungle": "2025-07-25 21:13:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-07-25 21:05:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-07-25 21:06:20 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-07-25 21:13:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-07-25 21:05:17 +0000"
     },
     "done": true
   },

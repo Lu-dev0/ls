@@ -725,7 +725,9 @@
       "minecraft:beach": "2025-07-24 21:25:27 +0000",
       "minecraft:dark_forest": "2025-07-24 21:05:29 +0000",
       "minecraft:river": "2025-07-24 21:46:18 +0000",
+      "minecraft:lush_caves": "2025-07-25 21:12:28 +0000",
       "minecraft:ocean": "2025-07-24 21:25:53 +0000",
+      "minecraft:jungle": "2025-07-25 21:09:45 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-24 21:33:16 +0000"
     },
     "done": false
@@ -733,6 +735,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-07-24 22:32:03 +0000",
+      "baked_potato": "2025-07-25 21:06:10 +0000",
       "bread": "2025-07-24 21:25:29 +0000",
       "melon_slice": "2025-07-24 21:05:43 +0000",
       "cooked_salmon": "2025-07-24 21:36:27 +0000"
@@ -1252,7 +1255,12 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:enchanted_tangle": "2025-07-25 21:08:01 +0000",
+      "biomeswevegone:temperate_grove": "2025-07-25 21:07:49 +0000",
+      "biomeswevegone:amaranth_grassland": "2025-07-25 21:08:50 +0000",
       "biomeswevegone:weeping_witch_forest": "2025-07-24 21:25:02 +0000",
+      "biomeswevegone:ebony_woods": "2025-07-25 21:08:30 +0000",
+      "biomeswevegone:basalt_barrera": "2025-07-25 21:07:45 +0000",
       "biomeswevegone:aspen_boreal": "2025-07-25 19:05:51 +0000"
     },
     "done": false
@@ -3117,9 +3125,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-07-25 21:13:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-07-25 21:03:56 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_jungle": "2025-07-25 21:12:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-07-25 21:13:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-07-25 21:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-07-25 21:13:50 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-07-25 21:12:01 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/tavern_quest": {
+    "criteria": {
+      "open_tavern_chest": "2025-07-25 21:13:15 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-07-25 21:10:28 +0000"
     },
     "done": true
   },
