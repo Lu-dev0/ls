@@ -448,3 +448,28 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Jul2025 03:37:10.515] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/66717, l='ServerLevel[world]', x=-1174.50, y=107.00, z=-770.50] died, message: 'Villager suffocated in a wall'
 [26Jul2025 03:38:37.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [Not even afraid of death]
 [26Jul2025 03:38:37.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [Back to childhood]
+[26Jul2025 03:47:13.555] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sele207 lost connection: Disconnected
+[26Jul2025 03:47:13.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 left the game
+[26Jul2025 03:47:13.558] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sele207
+[26Jul2025 03:47:17.605] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lu_dev lost connection: Disconnected
+[26Jul2025 03:47:17.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev left the game
+[26Jul2025 03:47:17.606] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Lu_dev
+[26Jul2025 03:47:42.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[26Jul2025 03:47:42.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26Jul2025 03:47:42.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26Jul2025 03:47:42.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26Jul2025 03:47:42.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[26Jul2025 03:47:42.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[26Jul2025 03:47:42.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[26Jul2025 03:47:42.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[26Jul2025 03:47:42.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[26Jul2025 03:47:42.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[26Jul2025 03:47:42.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26Jul2025 03:47:42.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26Jul2025 03:47:42.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[26Jul2025 03:47:42.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[26Jul2025 03:47:42.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[26Jul2025 03:47:42.759] [Server thread/INFO] [Framework/]: Unloading server configs...
+[26Jul2025 03:47:42.760] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[26Jul2025 03:47:42.762] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[26Jul2025 03:47:42.767] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
