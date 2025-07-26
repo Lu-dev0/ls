@@ -442,3 +442,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Jul2025 03:24:25.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 went off with a bang
 [26Jul2025 03:26:36.692] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lu_dev moved too quickly! -4.6647517804715335,7.290931189056664,-16.039439974141658
 [26Jul2025 03:27:02.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has completed the challenge [Village Defender]
+[26Jul2025 03:32:11.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lu_dev moved too quickly! 12.210676373482329,0.790964856779155,-13.49454568408521
+[26Jul2025 03:37:04.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lu_dev moved too quickly! -17.972021701393942,-1.8406502601310422,-2.5761531846743537
+[26Jul2025 03:37:05.518] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2328ms or 46 ticks behind
+[26Jul2025 03:37:10.515] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/66717, l='ServerLevel[world]', x=-1174.50, y=107.00, z=-770.50] died, message: 'Villager suffocated in a wall'
+[26Jul2025 03:38:37.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [Not even afraid of death]
+[26Jul2025 03:38:37.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [Back to childhood]

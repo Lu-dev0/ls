@@ -1388,7 +1388,8 @@
       "biomeswevegone:basalt_barrera": "2025-07-26 01:29:45 +0000",
       "biomeswevegone:aspen_boreal": "2025-07-24 22:45:44 +0000",
       "biomeswevegone:skyrise_vale": "2025-07-24 22:15:13 +0000",
-      "biomeswevegone:allium_shrubland": "2025-07-24 23:13:10 +0000"
+      "biomeswevegone:allium_shrubland": "2025-07-24 23:13:10 +0000",
+      "biomeswevegone:rainbow_beach": "2025-07-26 03:31:51 +0000"
     },
     "done": false
   },
@@ -3939,6 +3940,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-07-26 03:29:28 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
     "criteria": {
       "has_upgrade_base": "2025-07-26 02:54:28 +0000"
@@ -3948,6 +3955,12 @@
   "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-07-26 02:59:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-26 03:33:51 +0000"
     },
     "done": true
   },
@@ -3987,6 +4000,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-07-26 03:33:43 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-26 02:54:28 +0000"
@@ -3996,6 +4015,12 @@
   "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-26 02:54:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-07-26 03:27:02 +0000"
     },
     "done": true
   },
@@ -4116,6 +4141,12 @@
   "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-26 02:54:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-07-26 03:33:43 +0000"
     },
     "done": true
   },
