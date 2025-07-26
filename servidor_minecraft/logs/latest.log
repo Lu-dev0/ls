@@ -409,3 +409,26 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Jul2025 03:08:41.813] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-942, y=-26, z=-177}
 [26Jul2025 03:09:45.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has made the advancement [You Are A Pirate]
 [26Jul2025 03:09:48.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [You Are A Pirate]
+[26Jul2025 03:10:43.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has reached the goal [Fortuitous Militia]
+[26Jul2025 03:10:53.764] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[26Jul2025 03:10:53.810] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[26Jul2025 03:11:19.005] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[26Jul2025 03:11:19.011] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[26Jul2025 03:11:24.559] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[26Jul2025 03:11:24.564] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[26Jul2025 03:11:30.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev was slain by Vindicator
+[26Jul2025 03:11:40.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 was slain by Vindicator
+[26Jul2025 03:11:53.216] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[26Jul2025 03:11:53.228] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[26Jul2025 03:12:12.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 was slain by Vindicator
+[26Jul2025 03:12:29.404] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[26Jul2025 03:12:29.412] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[26Jul2025 03:12:33.158] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[26Jul2025 03:12:33.166] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[26Jul2025 03:12:38.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev was slain by Vindicator
+[26Jul2025 03:12:40.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 was slain by Vindicator
+[26Jul2025 03:14:27.231] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-876, y=-8, z=-223}
+[26Jul2025 03:18:11.720] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[26Jul2025 03:18:11.722] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[26Jul2025 03:18:18.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 burned to death
+[26Jul2025 03:19:28.202] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/33908, l='ServerLevel[world]', x=-986.62, y=70.86, z=-20.80] died, message: 'Fisherman was slain by Vindicator'

@@ -631,7 +631,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-07-26 03:10:50 +0000",
       "minecraft:skeleton": "2025-07-24 21:57:21 +0000",
+      "minecraft:vindicator": "2025-07-26 03:14:56 +0000",
       "minecraft:piglin_brute": "2025-07-24 21:29:02 +0000",
       "minecraft:spider": "2025-07-24 21:40:10 +0000",
       "minecraft:witch": "2025-07-25 23:09:13 +0000",
@@ -726,13 +728,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:mushroom_fields": "2025-07-26 03:08:32 +0000",
       "minecraft:deep_ocean": "2025-07-24 21:54:29 +0000",
       "minecraft:beach": "2025-07-24 21:25:27 +0000",
       "minecraft:dark_forest": "2025-07-24 21:05:29 +0000",
       "minecraft:river": "2025-07-24 21:46:18 +0000",
+      "minecraft:lukewarm_ocean": "2025-07-26 03:14:20 +0000",
       "minecraft:lush_caves": "2025-07-25 21:12:28 +0000",
       "minecraft:ocean": "2025-07-24 21:25:53 +0000",
       "minecraft:jungle": "2025-07-25 21:09:45 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-07-26 03:08:37 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-24 21:33:16 +0000"
     },
     "done": false
@@ -1265,6 +1270,7 @@
       "biomeswevegone:fragment_jungle": "2025-07-25 21:15:54 +0000",
       "biomeswevegone:enchanted_tangle": "2025-07-25 21:08:01 +0000",
       "biomeswevegone:temperate_grove": "2025-07-25 21:07:49 +0000",
+      "biomeswevegone:lush_stacks": "2025-07-26 03:08:33 +0000",
       "biomeswevegone:amaranth_grassland": "2025-07-25 21:08:50 +0000",
       "biomeswevegone:weeping_witch_forest": "2025-07-24 21:25:02 +0000",
       "biomeswevegone:ebony_woods": "2025-07-25 21:08:30 +0000",
@@ -4370,9 +4376,342 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/jungle/jungle_fence_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 03:11:40 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2025-07-26 03:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_planks_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 03:11:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-07-26 03:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_fence_gate_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 03:11:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/barrel_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 03:11:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-07-26 03:13:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_trapdoor_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 03:11:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_door_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 03:11:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-07-26 03:13:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/username_logger": {
+    "criteria": {
+      "has_redstone": "2025-07-26 03:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-07-26 03:13:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-07-26 03:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-07-26 03:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-07-26 03:13:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2025-07-26 03:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-07-26 03:13:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/portable_radar": {
+    "criteria": {
+      "has_redstone": "2025-07-26 03:13:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/taser": {
+    "criteria": {
+      "has_redstone": "2025-07-26 03:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-07-26 03:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/chest_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 03:11:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_sign_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 03:11:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dropper": {
+    "criteria": {
+      "has_redstone": "2025-07-26 03:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/crafting_table_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 03:11:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/purple_dye_from_bwg_dye_tag": {
     "criteria": {
       "has_dye_tag": "2025-07-26 03:00:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2025-07-26 03:13:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/alarm": {
+    "criteria": {
+      "has_redstone": "2025-07-26 03:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_boat_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 03:11:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-07-26 03:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-07-26 03:11:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_slab_from_spruce_stairs_woodcutting_combine": {
+    "criteria": {
+      "give_recipe": "2025-07-26 03:13:41 +0000",
+      "has_block": "2025-07-26 03:13:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2025-07-26 03:13:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2025-07-26 03:13:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2025-07-26 03:13:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-07-26 03:13:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 03:13:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_piston": {
+    "criteria": {
+      "has_redstone": "2025-07-26 03:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-07-26 03:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-07-26 03:13:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2025-07-26 03:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 03:15:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-07-26 03:13:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_slab_from_jungle_stairs_woodcutting_combine": {
+    "criteria": {
+      "give_recipe": "2025-07-26 03:11:40 +0000",
+      "has_block": "2025-07-26 03:11:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_planks_from_jungle_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 03:11:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2025-07-26 03:13:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/claymore": {
+    "criteria": {
+      "has_redstone": "2025-07-26 03:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_slab_from_dark_oak_stairs_woodcutting_combine": {
+    "criteria": {
+      "give_recipe": "2025-07-26 03:15:29 +0000",
+      "has_block": "2025-07-26 03:15:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_pressure_plate_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 03:11:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-07-26 03:13:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/panic_button": {
+    "criteria": {
+      "has_redstone": "2025-07-26 03:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_stairs_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 03:11:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_button_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 03:11:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_chest_boat_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-26 03:11:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2025-07-26 03:13:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/cage_trap": {
+    "criteria": {
+      "has_redstone": "2025-07-26 03:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-07-26 03:13:22 +0000"
     },
     "done": true
   },

@@ -532,6 +532,7 @@
       "minecraft:beach": "2025-07-24 21:24:30 +0000",
       "minecraft:dark_forest": "2025-07-24 21:05:32 +0000",
       "minecraft:river": "2025-07-24 21:46:16 +0000",
+      "minecraft:lukewarm_ocean": "2025-07-26 03:14:31 +0000",
       "minecraft:stony_shore": "2025-07-24 22:54:20 +0000",
       "minecraft:lush_caves": "2025-07-25 21:13:19 +0000",
       "minecraft:ocean": "2025-07-24 21:26:00 +0000",
@@ -3877,9 +3878,33 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2025-07-26 03:09:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_glazed_terracotta": {
+    "criteria": {
+      "has_purple_terracotta": "2025-07-26 03:10:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-26 03:09:57 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-26 02:54:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-07-26 03:09:57 +0000"
     },
     "done": true
   },
@@ -3898,6 +3923,18 @@
   "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-26 02:54:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-07-26 03:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-07-26 03:09:57 +0000"
     },
     "done": true
   },
@@ -3967,6 +4004,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-07-26 03:09:57 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-26 02:54:28 +0000"
@@ -3985,9 +4028,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-07-26 03:09:57 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-26 02:54:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-07-26 03:09:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-26 03:09:57 +0000"
     },
     "done": true
   },
@@ -4057,6 +4118,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-26 03:09:57 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/alchemy_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-26 02:54:28 +0000"
@@ -4120,6 +4187,12 @@
   "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-26 02:54:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-26 03:09:57 +0000"
     },
     "done": true
   },
