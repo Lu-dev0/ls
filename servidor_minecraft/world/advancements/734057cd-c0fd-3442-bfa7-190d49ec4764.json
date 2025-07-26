@@ -3865,6 +3865,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/redstone/rainbow_eucalyptus_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-26 03:05:28 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-26 02:54:28 +0000"
@@ -3883,6 +3889,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/redstone/rainbow_eucalyptus_door": {
+    "criteria": {
+      "has_planks": "2025-07-26 03:05:28 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-26 02:54:28 +0000"
@@ -3895,6 +3907,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-07-26 02:59:54 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/void_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-26 02:54:28 +0000"
@@ -3904,6 +3922,12 @@
   "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-26 02:54:28 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/rainbow_eucalyptus_button": {
+    "criteria": {
+      "has_planks": "2025-07-26 03:05:28 +0000"
     },
     "done": true
   },
@@ -3937,6 +3961,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/redstone/rainbow_eucalyptus_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-26 03:05:28 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-26 02:54:28 +0000"
@@ -3961,9 +3991,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-07-26 02:59:54 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-26 02:54:28 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/rainbow_eucalyptus_sign": {
+    "criteria": {
+      "has_planks": "2025-07-26 03:05:28 +0000"
     },
     "done": true
   },
@@ -4009,6 +4051,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/rainbow_eucalyptus_bookshelf": {
+    "criteria": {
+      "has_rainbow_eucalyptus_planks": "2025-07-26 03:05:28 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/alchemy_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-26 02:54:28 +0000"
@@ -4045,6 +4093,30 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/decorations/rainbow_eucalyptus_crafting_table": {
+    "criteria": {
+      "has_rainbow_eucalyptus_planks": "2025-07-26 03:05:28 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-07-26 02:59:54 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/rainbow_eucalyptus_slab": {
+    "criteria": {
+      "has_planks": "2025-07-26 03:05:28 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/rainbow_eucalyptus_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-26 03:05:28 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-26 02:54:28 +0000"
@@ -4060,6 +4132,18 @@
   "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-26 02:54:28 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/rainbow_eucalyptus_fence": {
+    "criteria": {
+      "has_planks": "2025-07-26 03:05:28 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/rainbow_eucalyptus_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-26 03:05:28 +0000"
     },
     "done": true
   },

@@ -402,3 +402,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Jul2025 02:52:32.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 joined the game
 [26Jul2025 02:52:32.836] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sele207 (18)
 [26Jul2025 02:52:32.837] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sele207
+[26Jul2025 03:08:35.930] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[26Jul2025 03:08:35.934] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[26Jul2025 03:08:39.869] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1121, y=-37, z=23}
+[26Jul2025 03:08:39.869] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1121, y=-37, z=22}
+[26Jul2025 03:08:41.813] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-942, y=-26, z=-177}
+[26Jul2025 03:09:45.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has made the advancement [You Are A Pirate]
+[26Jul2025 03:09:48.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [You Are A Pirate]
