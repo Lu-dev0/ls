@@ -405,3 +405,16 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Jul2025 13:48:10.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 left the game
 [26Jul2025 13:48:10.025] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sele207
 [26Jul2025 13:48:10.086] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Jul2025 13:54:26.392] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lu_dev[/127.71.179.52:52247] logged in with entity id 4626 at (-39.92087862894148, 63.0, 184.71420940854196)
+[26Jul2025 13:54:26.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev joined the game
+[26Jul2025 13:54:27.938] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Lu_dev (18)
+[26Jul2025 13:54:27.939] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Lu_dev
+[26Jul2025 13:55:32.046] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sele207[/127.71.179.52:52397] logged in with entity id 5034 at (-198.76545851575986, 224.0, 313.4978535408838)
+[26Jul2025 13:55:32.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 joined the game
+[26Jul2025 13:55:32.445] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sele207 (18)
+[26Jul2025 13:55:32.446] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sele207
+[26Jul2025 14:02:02.727] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sele207 lost connection: Timed out
+[26Jul2025 14:02:02.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 left the game
+[26Jul2025 14:02:02.728] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sele207
+[26Jul2025 14:02:53.852] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3591ms or 71 ticks behind
+[26Jul2025 14:02:56.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lu_dev moved too quickly! -4.824323841783269,-1.9589638104256153,17.811165550695932
