@@ -635,7 +635,9 @@
       "minecraft:piglin_brute": "2025-07-24 21:29:02 +0000",
       "minecraft:spider": "2025-07-24 21:40:10 +0000",
       "minecraft:witch": "2025-07-25 23:09:13 +0000",
+      "minecraft:wither_skeleton": "2025-07-26 00:41:16 +0000",
       "minecraft:husk": "2025-07-24 21:12:53 +0000",
+      "minecraft:cave_spider": "2025-07-26 00:48:48 +0000",
       "minecraft:piglin": "2025-07-24 21:27:31 +0000",
       "minecraft:enderman": "2025-07-25 23:44:06 +0000",
       "minecraft:stray": "2025-07-26 00:33:29 +0000",
@@ -3371,15 +3373,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-07-26 00:46:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-07-26 00:10:56 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-07-26 00:46:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "cod": "2025-07-25 23:35:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-26 00:45:56 +0000"
     },
     "done": true
   },
@@ -3431,9 +3451,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-26 00:40:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-25 23:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-26 00:45:38 +0000"
     },
     "done": true
   },
@@ -3455,6 +3487,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-26 00:45:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2025-07-25 23:24:07 +0000"
@@ -3473,6 +3511,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-26 00:40:35 +0000"
+    },
+    "done": true
+  },
   "mythicmounts:summoning_staff": {
     "criteria": {
       "has_pearl": "2025-07-25 23:44:07 +0000"
@@ -3485,9 +3529,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-26 00:40:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-07-25 23:25:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-07-26 00:46:14 +0000"
     },
     "done": true
   },
@@ -3581,6 +3637,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-26 00:40:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-07-25 23:41:08 +0000"
@@ -3596,6 +3658,12 @@
   "minecraft:recipes/woodcutting/oak/stripped_oak_log_from_oak_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-26 00:09:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-26 00:46:14 +0000"
     },
     "done": true
   },
@@ -3617,6 +3685,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-26 00:46:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2025-07-26 00:18:08 +0000"
@@ -3626,6 +3700,12 @@
   "minecraft:husbandry/axolotl_in_a_bucket": {
     "criteria": {
       "axolotl_bucket": "2025-07-25 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-26 00:45:38 +0000"
     },
     "done": true
   },
@@ -3647,6 +3727,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-26 00:45:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-07-25 23:24:07 +0000"
@@ -3662,6 +3748,12 @@
   "minecraft:recipes/woodcutting/oak/chest_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-26 00:10:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-26 00:45:56 +0000"
     },
     "done": true
   },
@@ -3725,6 +3817,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-26 00:46:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-07-26 00:10:56 +0000"
@@ -3750,9 +3848,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-07-26 00:46:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-07-25 23:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-26 00:46:14 +0000"
     },
     "done": true
   },
@@ -3822,6 +3932,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-07-26 00:46:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-07-25 23:51:35 +0000"
@@ -3834,9 +3950,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-07-26 00:46:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-07-25 23:13:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-26 00:46:14 +0000"
     },
     "done": true
   },
@@ -3858,6 +3986,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-26 00:40:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-25 23:15:12 +0000"
@@ -3867,6 +4001,12 @@
   "friendsandfoes:recipes/redstone/copper_button": {
     "criteria": {
       "has_copper_ingot": "2025-07-25 23:25:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-26 00:45:38 +0000"
     },
     "done": true
   },
@@ -3966,9 +4106,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-26 00:40:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_candle": {
     "criteria": {
       "has_black_dye": "2025-07-26 00:18:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-26 00:45:38 +0000"
     },
     "done": true
   },
