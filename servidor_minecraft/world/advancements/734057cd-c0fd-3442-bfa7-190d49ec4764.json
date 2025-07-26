@@ -4699,6 +4699,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/skreecher": {
+    "criteria": {
+      "killed": "2025-07-26 14:46:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-26 14:09:27 +0000"
@@ -4810,6 +4816,12 @@
   "deeperdarker:recipes/building_blocks/polished_sculk_stone_stairs_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 14:31:49 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/soundproof_glass": {
+    "criteria": {
+      "has_soul_dust": "2025-07-26 14:42:43 +0000"
     },
     "done": true
   },
@@ -4968,7 +4980,8 @@
       "shattered": "2025-07-26 14:36:42 +0000",
       "sculk_centipede": "2025-07-26 14:32:48 +0000",
       "sculk_leech": "2025-07-26 14:33:10 +0000",
-      "warden": "2025-07-26 14:15:08 +0000"
+      "warden": "2025-07-26 14:15:08 +0000",
+      "angler_fish": "2025-07-26 14:48:45 +0000"
     },
     "done": false
   },
