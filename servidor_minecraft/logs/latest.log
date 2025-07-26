@@ -394,3 +394,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Jul2025 02:48:51.188] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Lu_dev (18)
 [26Jul2025 02:48:51.190] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Lu_dev
 [26Jul2025 02:49:36.904] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 16 in "main" inventory handler
+[26Jul2025 02:50:05.731] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-428, y=-6, z=53}
+[26Jul2025 02:50:05.732] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-428, y=-6, z=54}
+[26Jul2025 02:50:22.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lu_dev moved too quickly! -16.5624660010958,-6.9053220178928285,-5.110012627879939
+[26Jul2025 02:51:07.243] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5203ms or 104 ticks behind
+[26Jul2025 02:52:32.077] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sele207[/127.71.179.52:43735] logged in with entity id 15581 at (-199.6320908830054, 224.0, 312.94684587304994)
+[26Jul2025 02:52:32.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 joined the game
+[26Jul2025 02:52:32.836] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sele207 (18)
+[26Jul2025 02:52:32.837] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sele207
