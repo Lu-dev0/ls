@@ -3483,11 +3483,11 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
-      "requirement": "2025-07-25 23:50:12 +0000"
+      "has_salmon": "2025-07-25 23:51:35 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
@@ -3546,6 +3546,12 @@
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-07-25 23:26:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-07-25 23:51:35 +0000"
     },
     "done": true
   },
@@ -3613,6 +3619,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-25 23:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-07-25 23:51:35 +0000"
     },
     "done": true
   },
