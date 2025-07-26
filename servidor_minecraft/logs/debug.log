@@ -5669,3 +5669,30 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Jul2025 14:20:52.134] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
 [26Jul2025 14:21:12.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev was slain by Warden
 [26Jul2025 14:21:12.960] [Server thread/DEBUG] [tombstone/]: A new grave of the player Lu_dev was created at position [x:-726, y:-49, z:1552, dim:minecraft:overworld]
+[26Jul2025 14:24:10.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jul2025 14:24:10.147] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jul2025 14:24:54.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has completed the challenge [It Spreads]
+[26Jul2025 14:25:32.778] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[26Jul2025 14:25:32.781] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[26Jul2025 14:25:40.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev was slain by Warden
+[26Jul2025 14:25:40.034] [Server thread/DEBUG] [tombstone/]: A new grave of the player Lu_dev was created at position [x:-764, y:-43, z:1553, dim:minecraft:overworld]
+[26Jul2025 14:25:51.015] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[26Jul2025 14:25:51.023] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[26Jul2025 14:25:57.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev was slain by Warden
+[26Jul2025 14:25:57.861] [Server thread/DEBUG] [tombstone/]: A new grave of the player Lu_dev was created at position [x:-765, y:-42, z:1554, dim:minecraft:overworld]
+[26Jul2025 14:26:09.134] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[26Jul2025 14:26:09.143] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[26Jul2025 14:26:16.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev was slain by Warden
+[26Jul2025 14:26:16.132] [Server thread/DEBUG] [tombstone/]: A new grave of the player Lu_dev was created at position [x:-765, y:-42, z:1551, dim:minecraft:overworld]
+[26Jul2025 14:26:28.085] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[26Jul2025 14:26:28.095] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[26Jul2025 14:26:42.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev was slain by Warden
+[26Jul2025 14:26:42.151] [Server thread/DEBUG] [tombstone/]: A new grave of the player Lu_dev was created at position [x:-765, y:-42, z:1546, dim:minecraft:overworld]
+[26Jul2025 14:28:27.128] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[26Jul2025 14:28:27.133] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[26Jul2025 14:28:33.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev was slain by Warden
+[26Jul2025 14:28:33.442] [Server thread/DEBUG] [tombstone/]: A new grave of the player Lu_dev was created at position [x:-750, y:-50, z:1558, dim:minecraft:overworld]
+[26Jul2025 14:29:10.124] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jul2025 14:29:10.147] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jul2025 14:30:46.980] [Worker-Main-43/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [0 above bottom--8 absolute]
+[26Jul2025 14:30:47.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has made the advancement [Below the Bedrock]
