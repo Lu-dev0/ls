@@ -4717,6 +4717,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/misc/resonarium_plate": {
+    "criteria": {
+      "has_resonarium": "2025-07-26 14:56:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-26 14:07:05 +0000"
@@ -4978,6 +4984,7 @@
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
       "shattered": "2025-07-26 14:36:42 +0000",
+      "shriek_worm": "2025-07-26 14:51:11 +0000",
       "sculk_centipede": "2025-07-26 14:32:48 +0000",
       "sculk_leech": "2025-07-26 14:33:10 +0000",
       "warden": "2025-07-26 14:15:08 +0000",
