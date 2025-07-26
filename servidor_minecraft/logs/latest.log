@@ -398,3 +398,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Jul2025 13:39:13.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev joined the game
 [26Jul2025 13:39:15.692] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Lu_dev (18)
 [26Jul2025 13:39:15.692] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Lu_dev
+[26Jul2025 13:45:14.333] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lu_dev lost connection: Disconnected
+[26Jul2025 13:45:14.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev left the game
+[26Jul2025 13:45:14.337] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Lu_dev
+[26Jul2025 13:48:10.024] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sele207 lost connection: Timed out
+[26Jul2025 13:48:10.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 left the game
+[26Jul2025 13:48:10.025] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sele207
+[26Jul2025 13:48:10.086] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
