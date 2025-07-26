@@ -5619,3 +5619,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Jul2025 14:02:02.728] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sele207
 [26Jul2025 14:02:53.852] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3591ms or 71 ticks behind
 [26Jul2025 14:02:56.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lu_dev moved too quickly! -4.824323841783269,-1.9589638104256153,17.811165550695932
+[26Jul2025 14:04:10.147] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jul2025 14:04:10.175] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jul2025 14:06:26.944] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[26Jul2025 14:06:26.952] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[26Jul2025 14:06:31.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev drowned
+[26Jul2025 14:06:31.942] [Server thread/DEBUG] [tombstone/]: A new grave of the player Lu_dev was created at position [x:-712, y:25, z:1552, dim:minecraft:overworld]
+[26Jul2025 14:06:31.946] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[26Jul2025 14:06:56.927] [Server thread/DEBUG] [mixin/]: Mixing gameplay.CooldownInstanceAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[26Jul2025 14:09:10.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jul2025 14:09:10.170] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jul2025 14:09:45.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has reached the goal [A Metropolis of Restless Souls]
+[26Jul2025 14:13:14.436] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[26Jul2025 14:13:14.439] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[26Jul2025 14:13:21.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev was doomed to fall by Warden
+[26Jul2025 14:13:21.046] [Server thread/DEBUG] [tombstone/]: A new grave of the player Lu_dev was created at position [x:-709, y:-47, z:1501, dim:minecraft:overworld]
