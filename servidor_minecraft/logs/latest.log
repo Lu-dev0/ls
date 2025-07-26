@@ -139,3 +139,38 @@
 [26Jul2025 01:22:00.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has reached the goal [Let's... Fly?]
 [26Jul2025 01:22:45.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has reached the goal [Sky's the Limit]
 [26Jul2025 01:23:56.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has reached the goal [Sky's the Limit]
+[26Jul2025 01:26:52.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has made the advancement [Magic Writing]
+[26Jul2025 01:29:25.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sele207 was kicked for floating a vehicle too long!
+[26Jul2025 01:29:25.255] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sele207 lost connection: Flying is not enabled on this server
+[26Jul2025 01:29:25.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 left the game
+[26Jul2025 01:29:25.259] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sele207
+[26Jul2025 01:30:10.025] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@54fbe6d1[id=<null>,name=Sele207,properties={},legacy=false] (/127.71.179.52:47989) lost connection: Disconnected
+[26Jul2025 01:30:34.090] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sele207[/127.71.179.52:55177] logged in with entity id 107998 at (486.05500346676496, 182.40939435914777, 84.74297475823622)
+[26Jul2025 01:30:34.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 joined the game
+[26Jul2025 01:30:34.930] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sele207 (18)
+[26Jul2025 01:30:34.931] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sele207
+[26Jul2025 01:32:48.570] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sele207 lost connection: Disconnected
+[26Jul2025 01:32:48.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 left the game
+[26Jul2025 01:32:48.571] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sele207
+[26Jul2025 01:33:37.017] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lu_dev lost connection: Disconnected
+[26Jul2025 01:33:37.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev left the game
+[26Jul2025 01:33:37.018] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Lu_dev
+[26Jul2025 01:33:58.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[26Jul2025 01:33:58.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26Jul2025 01:33:58.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26Jul2025 01:33:58.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26Jul2025 01:33:59.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[26Jul2025 01:34:00.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[26Jul2025 01:34:00.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[26Jul2025 01:34:00.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[26Jul2025 01:34:00.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[26Jul2025 01:34:01.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[26Jul2025 01:34:01.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26Jul2025 01:34:01.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26Jul2025 01:34:01.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[26Jul2025 01:34:01.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[26Jul2025 01:34:01.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[26Jul2025 01:34:01.112] [Server thread/INFO] [Framework/]: Unloading server configs...
+[26Jul2025 01:34:01.113] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[26Jul2025 01:34:01.115] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[26Jul2025 01:34:01.120] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
