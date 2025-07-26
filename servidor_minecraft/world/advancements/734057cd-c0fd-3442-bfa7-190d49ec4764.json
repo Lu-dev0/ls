@@ -43,9 +43,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2025-07-26 00:40:12 +0000",
       "log_spam_fixer": "2025-07-24 21:01:12 +0000"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/root": {
     "criteria": {
@@ -494,6 +495,7 @@
       "minecraft:spider": "2025-07-24 21:05:54 +0000",
       "minecraft:piglin_brute": "2025-07-24 21:30:51 +0000",
       "minecraft:creeper": "2025-07-24 23:24:10 +0000",
+      "minecraft:wither_skeleton": "2025-07-26 00:39:52 +0000",
       "minecraft:cave_spider": "2025-07-24 21:24:24 +0000",
       "minecraft:piglin": "2025-07-24 21:29:18 +0000",
       "minecraft:enderman": "2025-07-25 23:45:21 +0000",
@@ -555,6 +557,7 @@
       "cooked_mutton": "2025-07-25 23:08:53 +0000",
       "apple": "2025-07-24 21:37:37 +0000",
       "bread": "2025-07-24 21:35:34 +0000",
+      "golden_apple": "2025-07-26 00:39:38 +0000",
       "rotten_flesh": "2025-07-24 23:29:11 +0000",
       "glow_berries": "2025-07-26 00:24:07 +0000",
       "melon_slice": "2025-07-24 21:05:51 +0000",
