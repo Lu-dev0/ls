@@ -5288,3 +5288,29 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Jul2025 00:24:20.693] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sele207 was created at position [x:1124, y:32, z:-374, dim:minecraft:overworld]
 [26Jul2025 00:24:33.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has made the advancement [Ender Distancing]
 [26Jul2025 00:24:38.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has made the advancement [Capsid-19]
+[26Jul2025 00:25:12.184] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jul2025 00:25:12.206] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jul2025 00:26:21.851] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[26Jul2025 00:26:21.853] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[26Jul2025 00:27:00.229] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[26Jul2025 00:27:00.231] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[26Jul2025 00:27:08.486] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[26Jul2025 00:27:08.488] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[26Jul2025 00:27:14.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from holy damage
+[26Jul2025 00:27:14.753] [Server thread/DEBUG] [tombstone/]: A new grave of the player Lu_dev was created at position [x:1155, y:29, z:-374, dim:minecraft:overworld]
+[26Jul2025 00:27:18.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from holy damage
+[26Jul2025 00:27:18.586] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sele207 was created at position [x:1155, y:28, z:-376, dim:minecraft:overworld]
+[26Jul2025 00:28:11.129] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[26Jul2025 00:28:11.138] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[26Jul2025 00:28:24.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 was slain by Zombie
+[26Jul2025 00:28:24.686] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sele207 was created at position [x:1192, y:32, z:-335, dim:minecraft:overworld]
+[26Jul2025 00:30:12.181] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jul2025 00:30:12.203] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jul2025 00:32:13.132] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[26Jul2025 00:32:13.137] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[26Jul2025 00:32:24.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 was slain by Cave Spider
+[26Jul2025 00:32:24.133] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sele207 was created at position [x:1183, y:30, z:-400, dim:minecraft:overworld]
+[26Jul2025 00:33:07.027] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[26Jul2025 00:33:07.036] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[26Jul2025 00:33:16.430] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[26Jul2025 00:33:16.431] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
