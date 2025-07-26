@@ -5252,3 +5252,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Jul2025 03:18:18.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 burned to death
 [26Jul2025 03:18:18.239] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sele207 was created at position [x:-985, y:64, z:-39, dim:minecraft:overworld]
 [26Jul2025 03:19:28.202] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/33908, l='ServerLevel[world]', x=-986.62, y=70.86, z=-20.80] died, message: 'Fisherman was slain by Vindicator'
+[26Jul2025 03:20:58.306] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[26Jul2025 03:20:58.308] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[26Jul2025 03:21:04.572] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jul2025 03:21:04.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jul2025 03:21:05.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 was slain by Vindicator
+[26Jul2025 03:21:05.982] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sele207 was created at position [x:-982, y:69, z:-1, dim:minecraft:overworld]
+[26Jul2025 03:23:09.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has reached the goal [Fortuitous Militia]
+[26Jul2025 03:23:21.208] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/33909, l='ServerLevel[world]', x=-979.50, y=70.50, z=-20.97] died, message: 'Fisherman went off with a bang'
+[26Jul2025 03:24:16.808] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[26Jul2025 03:24:16.809] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[26Jul2025 03:24:25.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 went off with a bang
+[26Jul2025 03:24:25.627] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sele207 was created at position [x:-987, y:73, z:-5, dim:minecraft:overworld]
+[26Jul2025 03:26:04.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jul2025 03:26:04.643] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jul2025 03:26:36.692] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lu_dev moved too quickly! -4.6647517804715335,7.290931189056664,-16.039439974141658
+[26Jul2025 03:27:02.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has completed the challenge [Village Defender]
