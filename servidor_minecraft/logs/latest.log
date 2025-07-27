@@ -392,3 +392,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27Jul2025 20:58:40.925] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sele207 (18)
 [27Jul2025 20:58:40.927] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sele207
 [27Jul2025 21:07:22.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [Voluntary Exile]
+[27Jul2025 21:22:37.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [What a Deal!]

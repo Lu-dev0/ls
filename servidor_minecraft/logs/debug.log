@@ -4989,3 +4989,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27Jul2025 21:07:22.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [Voluntary Exile]
 [27Jul2025 21:10:27.325] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Jul2025 21:10:27.345] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 21:15:27.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 21:15:27.343] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 21:20:27.318] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 21:20:27.340] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 21:22:37.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [What a Deal!]
