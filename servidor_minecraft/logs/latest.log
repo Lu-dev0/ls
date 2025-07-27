@@ -395,3 +395,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27Jul2025 22:50:08.112] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=927, y=17, z=912}
 [27Jul2025 22:50:08.147] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=939, y=7, z=924}
 [27Jul2025 22:50:08.148] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=938, y=7, z=924}
+[27Jul2025 23:14:32.872] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lu_dev[/127.71.179.52:38705] logged in with entity id 14190 at (-1157.3321849691158, 39.0, 1438.9923493772212)
+[27Jul2025 23:14:32.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev joined the game
+[27Jul2025 23:14:34.702] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Lu_dev (18)
+[27Jul2025 23:14:34.703] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Lu_dev
+[27Jul2025 23:14:55.902] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[27Jul2025 23:14:55.909] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[27Jul2025 23:15:46.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev was slain by Shattered
+[27Jul2025 23:16:13.642] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[27Jul2025 23:16:13.648] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[27Jul2025 23:16:28.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev was slain by Warden
+[27Jul2025 23:16:48.392] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[27Jul2025 23:16:48.396] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[27Jul2025 23:16:55.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev was slain by Warden
+[27Jul2025 23:19:06.279] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[27Jul2025 23:19:06.287] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[27Jul2025 23:19:22.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev was slain by Warden

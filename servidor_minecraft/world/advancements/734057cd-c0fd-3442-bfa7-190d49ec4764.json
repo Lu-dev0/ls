@@ -4554,82 +4554,75 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
-      "log_spam_fixer": "2025-07-26 15:10:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-07-26 15:10:36 +0000",
-      "log_spam_fixer": "2025-07-26 15:10:10 +0000"
+      "has_cornflower": "2025-07-26 14:01:37 +0000"
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
-      "log_spam_fixer": "2025-07-26 15:10:10 +0000"
+      "has_gravel": "2025-07-26 14:05:46 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
-      "log_spam_fixer": "2025-07-26 15:10:10 +0000"
+      "has_andesite": "2025-07-26 14:07:05 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-07-26 15:10:10 +0000"
+      "has_andesite": "2025-07-26 14:07:05 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-07-26 15:10:10 +0000"
+      "has_andesite": "2025-07-26 14:07:05 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-07-26 15:10:10 +0000"
+      "has_andesite": "2025-07-26 14:07:05 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-07-26 15:10:10 +0000"
+      "has_andesite": "2025-07-26 14:07:05 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-07-26 15:10:10 +0000"
+      "has_andesite": "2025-07-26 14:07:05 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-07-26 15:10:10 +0000"
+      "has_andesite": "2025-07-26 14:07:05 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
-      "log_spam_fixer": "2025-07-26 15:10:10 +0000"
+      "has_andesite": "2025-07-26 14:07:05 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
-      "log_spam_fixer": "2025-07-26 15:10:10 +0000"
+      "has_andesite": "2025-07-26 14:07:05 +0000"
     },
-    "done": false
+    "done": true
   },
-  "deeperdarker:main/enter_otherside": {
+  "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
-      "otherside": "2025-07-26 14:30:47 +0000"
+      "has_andesite": "2025-07-26 14:07:05 +0000"
     },
     "done": true
   },
@@ -4645,33 +4638,135 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_stairs": {
-    "criteria": {
-      "has_andesite": "2025-07-26 14:07:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-26 14:09:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/spyglass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-07-26 14:10:42 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/sculk_stone_tile_wall_from_cobbled_sculk_stone_stonecutting": {
-    "criteria": {
-      "has_cobbled_sculk_stone": "2025-07-26 14:31:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-26 14:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-26 14:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-26 14:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-26 14:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-26 14:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-26 14:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-26 14:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-26 14:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-26 14:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-26 14:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-26 14:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-26 14:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-26 14:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-26 14:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-26 14:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-26 14:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-26 14:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-26 14:09:27 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-07-26 14:09:38 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2025-07-26 14:09:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-26 14:10:42 +0000"
     },
     "done": true
   },
@@ -4693,15 +4788,78 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-07-26 14:09:27 +0000"
+      "has_amethyst_shard": "2025-07-26 14:10:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+  "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-07-26 14:09:27 +0000"
+      "has_amethyst_shard": "2025-07-26 14:10:42 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2025-07-26 14:15:08 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "shattered": "2025-07-26 14:36:42 +0000",
+      "shriek_worm": "2025-07-26 14:51:11 +0000",
+      "sculk_centipede": "2025-07-26 14:32:48 +0000",
+      "sculk_leech": "2025-07-26 14:33:10 +0000",
+      "warden": "2025-07-26 14:15:08 +0000",
+      "angler_fish": "2025-07-26 14:48:45 +0000",
+      "sculk_snapper": "2025-07-26 15:03:51 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/combat/sonorous_staff": {
+    "criteria": {
+      "has_heart_of_the_deep": "2025-07-26 14:17:09 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/reinforced_echo_shard": {
+    "criteria": {
+      "has_warden_carapace": "2025-07-26 14:17:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-07-26 14:19:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-07-26 14:24:54 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/enter_otherside": {
+    "criteria": {
+      "otherside": "2025-07-26 14:30:47 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/explore_otherside": {
+    "criteria": {
+      "overcast_columns": "2025-07-26 14:59:35 +0000",
+      "deeplands": "2025-07-26 14:30:48 +0000",
+      "blooming_caverns": "2025-07-26 14:36:36 +0000",
+      "echoing_forest": "2025-07-26 14:59:29 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_tile_wall_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-26 14:31:49 +0000"
     },
     "done": true
   },
@@ -4723,33 +4881,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/orange_dye": {
-    "criteria": {
-      "has_gloomy_cactus": "2025-07-26 15:01:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-07-26 14:09:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-07-26 14:09:27 +0000"
-    },
-    "done": true
-  },
   "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_slab_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 14:31:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-07-26 14:07:05 +0000"
     },
     "done": true
   },
@@ -4759,60 +4893,9 @@
     },
     "done": true
   },
-  "deeperdarker:main/explore_otherside": {
-    "criteria": {
-      "overcast_columns": "2025-07-26 14:59:35 +0000",
-      "deeplands": "2025-07-26 14:30:48 +0000",
-      "blooming_caverns": "2025-07-26 14:36:36 +0000",
-      "echoing_forest": "2025-07-26 14:59:29 +0000"
-    },
-    "done": true
-  },
   "deeperdarker:recipes/building_blocks/sculk_stone_brick_stairs_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 14:31:49 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/combat/sonorous_staff": {
-    "criteria": {
-      "has_heart_of_the_deep": "2025-07-26 14:17:09 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/skreecher": {
-    "criteria": {
-      "killed": "2025-07-26 14:46:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-07-26 14:09:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-07-26 14:01:37 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/misc/resonarium_plate": {
-    "criteria": {
-      "has_resonarium": "2025-07-26 14:56:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-07-26 14:07:05 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:effects/protection_of_the_hive_defense": {
-    "criteria": {
-      "protection_of_the_hive_defense": "2025-07-26 15:00:37 +0000"
     },
     "done": true
   },
@@ -4828,75 +4911,9 @@
     },
     "done": true
   },
-  "deeperdarker:main/root": {
-    "criteria": {
-      "deep_dark": "2025-07-26 14:09:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2025-07-26 14:05:46 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-07-26 14:10:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-07-26 14:09:27 +0000"
-    },
-    "done": true
-  },
   "deeperdarker:recipes/building_blocks/chiseled_sculk_stone_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 14:31:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-07-26 14:07:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-07-26 14:09:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-07-26 14:09:27 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/misc/reinforced_echo_shard": {
-    "criteria": {
-      "has_warden_carapace": "2025-07-26 14:17:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-07-26 14:07:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-07-26 14:09:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-07-26 14:09:27 +0000"
     },
     "done": true
   },
@@ -4912,18 +4929,6 @@
     },
     "done": true
   },
-  "deeperdarker:recipes/building_blocks/soundproof_glass": {
-    "criteria": {
-      "has_soul_dust": "2025-07-26 14:42:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-07-26 14:09:27 +0000"
-    },
-    "done": true
-  },
   "deeperdarker:recipes/building_blocks/sculk_stone_brick_slab_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 14:31:49 +0000"
@@ -4936,27 +4941,9 @@
     },
     "done": true
   },
-  "deeperdarker:main/find_ancient_city": {
-    "criteria": {
-      "ancient_city": "2025-07-26 14:09:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-07-26 14:09:27 +0000"
-    },
-    "done": true
-  },
   "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_stairs_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 14:31:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-07-26 14:07:05 +0000"
     },
     "done": true
   },
@@ -4972,48 +4959,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-07-26 14:07:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-07-26 14:09:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-07-26 14:09:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
-    "criteria": {
-      "kill_mob_near_sculk_catalyst": "2025-07-26 14:24:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-07-26 14:09:27 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:main/kill_warden": {
-    "criteria": {
-      "warden": "2025-07-26 14:15:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite": {
-    "criteria": {
-      "has_andesite": "2025-07-26 14:07:05 +0000"
-    },
-    "done": true
-  },
   "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_stairs": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 14:31:49 +0000"
@@ -5026,63 +4971,45 @@
     },
     "done": true
   },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2025-07-26 14:19:44 +0000"
-    },
-    "done": true
-  },
   "deeperdarker:recipes/building_blocks/sculk_stone_tile_slab_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 14:31:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/amethyst_block": {
-    "criteria": {
-      "has_amethyst_shard": "2025-07-26 14:10:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-07-26 14:09:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/andesite_wall": {
-    "criteria": {
-      "has_andesite": "2025-07-26 14:07:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_slab": {
-    "criteria": {
-      "has_andesite": "2025-07-26 14:07:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-07-26 14:09:27 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:main/kill_all_sculk_mobs": {
-    "criteria": {
-      "shattered": "2025-07-26 14:36:42 +0000",
-      "shriek_worm": "2025-07-26 14:51:11 +0000",
-      "sculk_centipede": "2025-07-26 14:32:48 +0000",
-      "sculk_leech": "2025-07-26 14:33:10 +0000",
-      "warden": "2025-07-26 14:15:08 +0000",
-      "angler_fish": "2025-07-26 14:48:45 +0000",
-      "sculk_snapper": "2025-07-26 15:03:51 +0000"
-    },
-    "done": false
-  },
   "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_slab": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-26 14:31:49 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/soundproof_glass": {
+    "criteria": {
+      "has_soul_dust": "2025-07-26 14:42:43 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skreecher": {
+    "criteria": {
+      "killed": "2025-07-26 14:46:13 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/resonarium_plate": {
+    "criteria": {
+      "has_resonarium": "2025-07-26 14:56:39 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:effects/protection_of_the_hive_defense": {
+    "criteria": {
+      "protection_of_the_hive_defense": "2025-07-26 15:00:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye": {
+    "criteria": {
+      "has_gloomy_cactus": "2025-07-26 15:01:21 +0000"
     },
     "done": true
   },
