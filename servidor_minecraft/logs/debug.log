@@ -6946,3 +6946,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27Jul2025 21:34:14.868] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
 [27Jul2025 21:34:23.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 was slain by Husk
 [27Jul2025 21:34:23.033] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sele207 was created at position [x:648, y:132, z:1212, dim:minecraft:overworld]
+[27Jul2025 21:34:35.516] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[27Jul2025 21:34:35.525] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[27Jul2025 21:34:59.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 was slain by Husk
+[27Jul2025 21:34:59.270] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sele207 was created at position [x:649, y:132, z:1213, dim:minecraft:overworld]
+[27Jul2025 21:35:13.124] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[27Jul2025 21:35:13.135] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[27Jul2025 21:35:23.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 was slain by Husk
+[27Jul2025 21:35:23.479] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sele207 was created at position [x:649, y:132, z:1213, dim:minecraft:overworld]
+[27Jul2025 21:35:30.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 21:35:30.875] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 21:40:30.873] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 21:40:30.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 21:42:20.912] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[27Jul2025 21:42:20.919] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[27Jul2025 21:42:47.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 was slain by Husk
+[27Jul2025 21:42:47.469] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sele207 was created at position [x:650, y:132, z:1217, dim:minecraft:overworld]
