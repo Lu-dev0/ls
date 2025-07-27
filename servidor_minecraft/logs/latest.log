@@ -411,3 +411,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27Jul2025 23:19:06.279] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
 [27Jul2025 23:19:06.287] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
 [27Jul2025 23:19:22.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev was slain by Warden
+[27Jul2025 23:22:05.744] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[27Jul2025 23:22:05.768] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[27Jul2025 23:22:25.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 was shot by Skeleton
+[27Jul2025 23:23:33.841] [Worker-Main-40/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [0 above bottom--8 absolute]
+[27Jul2025 23:25:56.457] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[27Jul2025 23:25:56.459] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[27Jul2025 23:26:03.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev fell from a high place
+[27Jul2025 23:26:59.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [Magic Writing]

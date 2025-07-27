@@ -494,6 +494,7 @@
       "minecraft:spider": "2025-07-24 21:05:54 +0000",
       "minecraft:piglin_brute": "2025-07-24 21:30:51 +0000",
       "minecraft:creeper": "2025-07-24 23:24:10 +0000",
+      "minecraft:phantom": "2025-07-27 23:20:57 +0000",
       "minecraft:wither_skeleton": "2025-07-26 00:39:52 +0000",
       "minecraft:cave_spider": "2025-07-24 21:24:24 +0000",
       "minecraft:piglin": "2025-07-24 21:29:18 +0000",
@@ -4809,6 +4810,7 @@
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
       "shattered": "2025-07-26 14:36:42 +0000",
+      "phantom": "2025-07-27 23:20:57 +0000",
       "shriek_worm": "2025-07-26 14:51:11 +0000",
       "sculk_centipede": "2025-07-26 14:32:48 +0000",
       "sculk_leech": "2025-07-26 14:33:10 +0000",
