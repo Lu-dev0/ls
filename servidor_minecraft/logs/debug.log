@@ -6962,3 +6962,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27Jul2025 21:42:20.919] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
 [27Jul2025 21:42:47.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 was slain by Husk
 [27Jul2025 21:42:47.469] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sele207 was created at position [x:650, y:132, z:1217, dim:minecraft:overworld]
+[27Jul2025 21:45:30.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 21:45:30.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 21:46:29.914] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[27Jul2025 21:46:29.921] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[27Jul2025 21:46:38.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 was slain by Skeleton
+[27Jul2025 21:46:38.180] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sele207 was created at position [x:641, y:136, z:1218, dim:minecraft:overworld]
+[27Jul2025 21:46:52.069] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[27Jul2025 21:46:52.076] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[27Jul2025 21:47:05.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 was slain by Skeleton
+[27Jul2025 21:47:05.469] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sele207 was created at position [x:643, y:136, z:1219, dim:minecraft:overworld]
+[27Jul2025 21:50:30.867] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 21:50:30.887] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
