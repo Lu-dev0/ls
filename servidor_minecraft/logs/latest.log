@@ -405,3 +405,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27Jul2025 23:40:48.990] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sele207
 [27Jul2025 23:41:51.416] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySkunk['Skunk'/4054, l='ServerLevel[world]', x=555.09, y=70.00, z=1023.11]
 [27Jul2025 23:41:56.629] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityCrow['Crow'/4114, l='ServerLevel[world]', x=543.98, y=97.54, z=1130.55]
+[27Jul2025 23:45:03.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [Hide and Seek]
+[27Jul2025 23:45:16.128] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[27Jul2025 23:45:16.134] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[27Jul2025 23:45:25.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev experienced kinetic energy
+[27Jul2025 23:46:29.175] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[27Jul2025 23:46:29.178] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[27Jul2025 23:46:36.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev was slain by Warden
+[27Jul2025 23:46:48.320] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[27Jul2025 23:46:48.324] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[27Jul2025 23:46:54.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev was slain by Warden
+[27Jul2025 23:47:03.979] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[27Jul2025 23:47:03.983] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[27Jul2025 23:47:14.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev was slain by Warden
+[27Jul2025 23:47:30.817] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[27Jul2025 23:47:30.824] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[27Jul2025 23:47:40.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev was slain by Warden
+[27Jul2025 23:54:02.219] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=954, y=-21, z=827}

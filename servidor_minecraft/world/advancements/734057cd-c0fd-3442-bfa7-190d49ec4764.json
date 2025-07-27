@@ -5141,5 +5141,11 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/building_blocks/bloom_planks": {
+    "criteria": {
+      "has_logs": "2025-07-27 23:49:36 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
