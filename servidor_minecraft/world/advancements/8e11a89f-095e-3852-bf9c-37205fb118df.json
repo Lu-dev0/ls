@@ -736,11 +736,13 @@
       "minecraft:dark_forest": "2025-07-24 21:05:29 +0000",
       "minecraft:river": "2025-07-24 21:46:18 +0000",
       "minecraft:lukewarm_ocean": "2025-07-26 03:14:20 +0000",
+      "minecraft:forest": "2025-07-27 21:27:19 +0000",
       "minecraft:lush_caves": "2025-07-25 21:12:28 +0000",
       "minecraft:ocean": "2025-07-24 21:25:53 +0000",
       "minecraft:jungle": "2025-07-25 21:09:45 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-26 03:08:37 +0000",
-      "minecraft:old_growth_birch_forest": "2025-07-24 21:33:16 +0000"
+      "minecraft:old_growth_birch_forest": "2025-07-24 21:33:16 +0000",
+      "minecraft:plains": "2025-07-27 21:29:39 +0000"
     },
     "done": false
   },
@@ -5030,6 +5032,36 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-07-27 21:07:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2025-07-27 21:30:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-07-27 21:30:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-07-27 21:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-07-27 21:22:39 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-07-27 21:29:32 +0000"
     },
     "done": true
   },
