@@ -5030,27 +5030,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/mangrove/mangrove_sign_from_mangrove_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-27 22:01:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2025-07-27 21:30:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/mangrove/mangrove_boat_from_mangrove_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-27 22:01:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-07-27 21:07:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-07-27 21:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-07-27 21:22:39 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-07-27 21:29:32 +0000"
     },
     "done": true
   },
@@ -5060,21 +5060,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/mangrove/mangrove_planks_from_mangrove_slab_woodcutting": {
+  "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
-      "give_recipe": "2025-07-27 22:01:10 +0000"
+      "has_item_frame": "2025-07-27 21:30:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+  "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
-      "has_polished_andesite": "2025-07-27 21:57:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/mangrove/mangrove_stairs_from_mangrove_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-27 22:01:10 +0000"
+      "has_beetroot": "2025-07-27 21:30:36 +0000"
     },
     "done": true
   },
@@ -5084,9 +5078,57 @@
     },
     "done": true
   },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-07-27 21:31:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-27 21:57:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2025-07-27 21:57:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-27 21:57:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-27 21:57:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_sign_from_mangrove_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-27 22:01:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_boat_from_mangrove_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-27 22:01:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_planks_from_mangrove_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-27 22:01:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_stairs_from_mangrove_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-27 22:01:10 +0000"
     },
     "done": true
   },
@@ -5114,12 +5156,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_item_frame": "2025-07-27 21:30:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/mangrove/mangrove_chest_boat_from_mangrove_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-27 22:01:10 +0000"
@@ -5132,45 +5168,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-07-27 21:22:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/cyan_dye_from_bwg_dye_tag": {
-    "criteria": {
-      "has_dye_tag": "2025-07-27 21:22:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/mangrove/mangrove_pressure_plate_from_mangrove_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-27 22:01:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
-    "criteria": {
-      "has_polished_andesite": "2025-07-27 21:57:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/mangrove/mangrove_button_from_mangrove_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-27 22:01:10 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_bathhouse": {
-    "criteria": {
-      "location0": "2025-07-27 21:29:32 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:teleportation/is_near_beehive": {
-    "criteria": {
-      "is_near_beehive": "2025-07-27 21:31:17 +0000"
     },
     "done": true
   },
@@ -5186,9 +5192,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+  "minecraft:recipes/building_blocks/clay": {
     "criteria": {
-      "has_polished_andesite": "2025-07-27 21:57:01 +0000"
+      "has_clay_ball": "2025-07-27 22:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-07-27 22:47:26 +0000"
     },
     "done": true
   },

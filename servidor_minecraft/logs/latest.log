@@ -385,3 +385,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27Jul2025 22:22:34.050] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: smoothchunk.json
 [27Jul2025 22:22:34.056] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [27Jul2025 22:22:34.067] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[27Jul2025 22:44:05.493] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[27Jul2025 22:44:05.587] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sele207[/127.71.179.52:59711] logged in with entity id 620 at (706.6999999880791, 97.0, 1090.699999988079)
+[27Jul2025 22:44:05.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 joined the game
+[27Jul2025 22:44:07.602] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sele207 (18)
+[27Jul2025 22:44:07.605] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sele207
+[27Jul2025 22:44:07.609] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[27Jul2025 22:44:34.245] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=774, y=28, z=928}
+[27Jul2025 22:50:08.112] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=927, y=17, z=912}
+[27Jul2025 22:50:08.147] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=939, y=7, z=924}
+[27Jul2025 22:50:08.148] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=938, y=7, z=924}
