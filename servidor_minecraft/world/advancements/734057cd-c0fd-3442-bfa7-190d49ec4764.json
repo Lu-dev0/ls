@@ -4554,6 +4554,79 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-26 15:10:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-07-26 15:10:36 +0000",
+      "log_spam_fixer": "2025-07-26 15:10:10 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-26 15:10:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-26 15:10:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-26 15:10:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-26 15:10:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-26 15:10:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-26 15:10:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-26 15:10:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-26 15:10:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-26 15:10:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-26 15:10:10 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:main/enter_otherside": {
     "criteria": {
       "otherside": "2025-07-26 14:30:47 +0000"
@@ -4650,6 +4723,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye": {
+    "criteria": {
+      "has_gloomy_cactus": "2025-07-26 15:01:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-26 14:09:27 +0000"
@@ -4682,10 +4761,12 @@
   },
   "deeperdarker:main/explore_otherside": {
     "criteria": {
+      "overcast_columns": "2025-07-26 14:59:35 +0000",
       "deeplands": "2025-07-26 14:30:48 +0000",
-      "blooming_caverns": "2025-07-26 14:36:36 +0000"
+      "blooming_caverns": "2025-07-26 14:36:36 +0000",
+      "echoing_forest": "2025-07-26 14:59:29 +0000"
     },
-    "done": false
+    "done": true
   },
   "deeperdarker:recipes/building_blocks/sculk_stone_brick_stairs_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
@@ -4726,6 +4807,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-26 14:07:05 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:effects/protection_of_the_hive_defense": {
+    "criteria": {
+      "protection_of_the_hive_defense": "2025-07-26 15:00:37 +0000"
     },
     "done": true
   },
@@ -4988,7 +5075,8 @@
       "sculk_centipede": "2025-07-26 14:32:48 +0000",
       "sculk_leech": "2025-07-26 14:33:10 +0000",
       "warden": "2025-07-26 14:15:08 +0000",
-      "angler_fish": "2025-07-26 14:48:45 +0000"
+      "angler_fish": "2025-07-26 14:48:45 +0000",
+      "sculk_snapper": "2025-07-26 15:03:51 +0000"
     },
     "done": false
   },
