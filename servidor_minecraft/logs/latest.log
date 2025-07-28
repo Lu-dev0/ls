@@ -583,3 +583,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jul2025 18:52:01.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Enchanted Book] to Lu_dev
 [28Jul2025 18:52:01.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Enchanted Book] to Lu_dev
 [28Jul2025 18:52:03.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Enchanted Book] to Lu_dev
+[28Jul2025 18:59:12.963] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lu_dev lost connection: Disconnected
+[28Jul2025 18:59:12.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev left the game
+[28Jul2025 18:59:12.963] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Lu_dev
