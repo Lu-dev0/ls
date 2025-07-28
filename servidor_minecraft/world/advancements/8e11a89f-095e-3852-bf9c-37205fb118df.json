@@ -638,6 +638,7 @@
       "minecraft:magma_cube": "2025-07-26 03:34:47 +0000",
       "minecraft:piglin_brute": "2025-07-24 21:29:02 +0000",
       "minecraft:spider": "2025-07-24 21:40:10 +0000",
+      "minecraft:creeper": "2025-07-28 19:40:13 +0000",
       "minecraft:evoker": "2025-07-28 17:30:14 +0000",
       "minecraft:witch": "2025-07-25 23:09:13 +0000",
       "minecraft:wither_skeleton": "2025-07-26 00:41:16 +0000",
@@ -5605,6 +5606,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-28 19:40:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
     "criteria": {
       "has_deepslate_bricks": "2025-07-28 18:23:30 +0000"
@@ -5626,6 +5633,12 @@
   "deeperdarker:recipes/building_blocks/sculk_stone_tile_wall_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-28 18:16:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-07-28 19:39:46 +0000"
     },
     "done": true
   },

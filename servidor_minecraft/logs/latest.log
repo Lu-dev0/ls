@@ -587,3 +587,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jul2025 18:59:12.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev left the game
 [28Jul2025 18:59:12.963] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Lu_dev
 [28Jul2025 19:18:01.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sele207> si puedes traeme mucho roble oscuro
+[28Jul2025 19:39:46.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [Ol' Betsy]
+[28Jul2025 19:40:04.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [Take Aim]
