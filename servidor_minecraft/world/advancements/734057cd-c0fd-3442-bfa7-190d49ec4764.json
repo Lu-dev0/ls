@@ -495,12 +495,14 @@
       "minecraft:spider": "2025-07-24 21:05:54 +0000",
       "minecraft:piglin_brute": "2025-07-24 21:30:51 +0000",
       "minecraft:creeper": "2025-07-24 23:24:10 +0000",
+      "minecraft:evoker": "2025-07-28 01:22:48 +0000",
       "minecraft:phantom": "2025-07-27 23:20:57 +0000",
       "minecraft:wither_skeleton": "2025-07-26 00:39:52 +0000",
       "minecraft:cave_spider": "2025-07-24 21:24:24 +0000",
       "minecraft:piglin": "2025-07-24 21:29:18 +0000",
       "minecraft:enderman": "2025-07-25 23:45:21 +0000",
       "minecraft:stray": "2025-07-25 23:10:38 +0000",
+      "minecraft:vex": "2025-07-28 01:17:05 +0000",
       "minecraft:zombie": "2025-07-24 21:06:56 +0000",
       "minecraft:drowned": "2025-07-24 21:47:28 +0000"
     },
@@ -574,7 +576,8 @@
       "golden_carrot": "2025-07-28 00:27:16 +0000",
       "cooked_chicken": "2025-07-26 00:04:26 +0000",
       "enchanted_golden_apple": "2025-07-26 01:04:45 +0000",
-      "cod": "2025-07-25 23:43:07 +0000"
+      "cod": "2025-07-25 23:43:07 +0000",
+      "carrot": "2025-07-28 01:19:50 +0000"
     },
     "done": false
   },
@@ -2195,6 +2198,7 @@
   },
   "friendsandfoes:adventure/the_magicians": {
     "criteria": {
+      "killed_evoker": "2025-07-28 01:22:48 +0000",
       "killed_illusioner": "2025-07-24 22:47:54 +0000"
     },
     "done": false
@@ -5169,6 +5173,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-07-28 01:21:43 +0000"
+    },
+    "done": true
+  },
   "incendium:quartz_flats/sanctum/root": {
     "criteria": {
       "requirement": "2025-07-28 01:11:01 +0000"
@@ -5241,6 +5251,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-07-28 01:17:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-07-28 01:22:51 +0000"
+    },
+    "done": true
+  },
   "nova_structures:nether/find_nether_skeleton": {
     "criteria": {
       "minecraft:fortress": "2025-07-28 01:00:03 +0000"
@@ -5250,6 +5272,12 @@
   "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
       "has_receptacle_of_familiar": "2025-07-28 00:38:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-07-28 01:22:51 +0000"
     },
     "done": true
   },
