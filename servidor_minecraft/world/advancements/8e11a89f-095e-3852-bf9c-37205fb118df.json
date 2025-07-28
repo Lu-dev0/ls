@@ -5900,6 +5900,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2025-07-28 19:06:25 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_slab": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-28 18:16:50 +0000"
