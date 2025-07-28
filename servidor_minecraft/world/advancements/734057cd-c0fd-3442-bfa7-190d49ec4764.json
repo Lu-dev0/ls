@@ -5149,81 +5149,27 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/building_blocks/bloom_planks": {
+    "criteria": {
+      "has_logs": "2025-07-27 23:49:36 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:main/find_ancient_temple": {
     "criteria": {
       "ancient_temple": "2025-07-28 00:11:31 +0000"
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
+  "minecraft:recipes/tools/recovery_compass": {
     "criteria": {
-      "minecraft:soul_sand_valley": "2025-07-28 00:57:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:root": {
-    "criteria": {
-      "requirement": "2025-07-28 00:53:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-07-28 01:00:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-07-28 01:21:43 +0000"
-    },
-    "done": true
-  },
-  "incendium:quartz_flats/sanctum/root": {
-    "criteria": {
-      "requirement": "2025-07-28 01:11:01 +0000"
+      "has_echo_shard": "2025-07-28 00:13:55 +0000"
     },
     "done": true
   },
   "deeperdarker:recipes/building_blocks/sculk_grime_bricks": {
     "criteria": {
       "has_grime_brick": "2025-07-28 00:13:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-07-28 00:47:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-07-28 00:47:44 +0000"
-    },
-    "done": true
-  },
-  "incendium:misc/root": {
-    "criteria": {
-      "incendium:quartz_flats": "2025-07-28 00:53:38 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/foragers_table": {
-    "criteria": {
-      "has_mushrooms": "2025-07-28 01:01:16 +0000"
-    },
-    "done": true
-  },
-  "incendium:misc/soul_searcher": {
-    "criteria": {
-      "incendium:quartz_flats": "2025-07-28 00:53:38 +0000"
-    },
-    "done": false
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2025-07-28 01:00:03 +0000"
     },
     "done": true
   },
@@ -5239,9 +5185,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bowl": {
+  "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
-      "has_red_mushroom": "2025-07-28 01:01:16 +0000"
+      "has_receptacle_of_familiar": "2025-07-28 00:38:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-28 00:47:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-07-28 00:47:44 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-07-28 00:53:35 +0000"
     },
     "done": true
   },
@@ -5251,15 +5215,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/glow_item_frame": {
+  "minecraft:nether/root": {
     "criteria": {
-      "has_glow_ink_sac": "2025-07-28 01:17:13 +0000"
+      "entered_nether": "2025-07-28 00:53:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
+  "incendium:misc/root": {
     "criteria": {
-      "has_nether_wart": "2025-07-28 01:22:51 +0000"
+      "incendium:quartz_flats": "2025-07-28 00:53:38 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:quartz_flats": "2025-07-28 00:53:38 +0000"
+    },
+    "done": false
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-07-28 00:53:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2025-07-28 00:57:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-07-28 01:00:03 +0000"
     },
     "done": true
   },
@@ -5269,39 +5257,9 @@
     },
     "done": false
   },
-  "tombstone:adventure/create_familiar_receptacle": {
+  "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
-      "has_receptacle_of_familiar": "2025-07-28 00:38:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
-    "criteria": {
-      "has_nether_wart": "2025-07-28 01:22:51 +0000"
-    },
-    "done": true
-  },
-  "incendium:quartz_flats/floor_is_tears": {
-    "criteria": {
-      "requirement": "2025-07-28 01:14:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-07-28 00:53:35 +0000"
-    },
-    "done": true
-  },
-  "incendium:quartz_flats/root": {
-    "criteria": {
-      "requirement": "2025-07-28 00:53:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/recovery_compass": {
-    "criteria": {
-      "has_echo_shard": "2025-07-28 00:13:55 +0000"
+      "blaze_rod": "2025-07-28 01:00:11 +0000"
     },
     "done": true
   },
@@ -5311,21 +5269,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-28 01:00:11 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/foragers_table": {
+    "criteria": {
+      "has_mushrooms": "2025-07-28 01:01:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-07-28 01:01:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2025-07-28 01:01:16 +0000"
     },
     "done": true
   },
-  "deeperdarker:recipes/building_blocks/bloom_planks": {
+  "incendium:quartz_flats/sanctum/root": {
     "criteria": {
-      "has_logs": "2025-07-27 23:49:36 +0000"
+      "requirement": "2025-07-28 01:11:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
+  "incendium:quartz_flats/floor_is_tears": {
     "criteria": {
-      "has_blaze_rod": "2025-07-28 01:00:11 +0000"
+      "requirement": "2025-07-28 01:14:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-07-28 01:17:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-07-28 01:21:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-07-28 01:22:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-07-28 01:22:51 +0000"
     },
     "done": true
   },
