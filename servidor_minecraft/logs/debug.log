@@ -5474,3 +5474,23 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jul2025 17:32:32.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lu_dev> que tienes
 [28Jul2025 17:33:37.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lu_dev> vamonos
 [28Jul2025 17:34:18.612] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/10093, l='ServerLevel[world]', x=135.26, y=37.00, z=-426.73] died: Sanctum Cultist went up in flames
+[28Jul2025 17:34:30.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lu_dev> pera
+[28Jul2025 17:35:33.844] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 17:35:33.866] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 17:36:23.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 10 [Soul Crystal] to Lu_dev
+[28Jul2025 17:37:07.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lu_dev> tienes para hacer elitras?
+[28Jul2025 17:37:28.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lu_dev> haz una
+[28Jul2025 17:37:58.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lu_dev> bueno una y medio
+[28Jul2025 17:39:38.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lu_dev> la mitad jaja
+[28Jul2025 17:39:50.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has reached the goal [Let's... Fly?]
+[28Jul2025 17:40:33.842] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 17:40:33.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 17:40:37.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lu_dev> vamonos
+[28Jul2025 17:40:52.763] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Skeleton Brother'/10259, l='ServerLevel[world]', x=24.21, y=37.00, z=-300.16] died: Skeleton Brother withered away
+[28Jul2025 17:41:12.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lu_dev> no se como se usan jaj
+[28Jul2025 17:43:22.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lu_dev> vente abri ese gueco para subir
+[28Jul2025 17:43:45.316] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[28Jul2025 17:43:45.318] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[28Jul2025 17:43:50.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev drowned
+[28Jul2025 17:43:50.317] [Server thread/DEBUG] [tombstone/]: A new grave of the player Lu_dev was created at position [x:740, y:46, z:1151, dim:minecraft:overworld]
+[28Jul2025 17:43:50.319] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved

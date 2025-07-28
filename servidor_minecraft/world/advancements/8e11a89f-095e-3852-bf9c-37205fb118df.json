@@ -5565,5 +5565,11 @@
     },
     "done": true
   },
+  "craftable_elytra_remastered:lets_fly": {
+    "criteria": {
+      "lets_fly": "2025-07-28 17:39:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
