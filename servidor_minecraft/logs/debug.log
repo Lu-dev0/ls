@@ -5514,3 +5514,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jul2025 17:54:30.320] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
 [28Jul2025 17:54:39.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 was slain by Vindicator
 [28Jul2025 17:54:39.772] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sele207 was created at position [x:-872, y:63, z:1075, dim:minecraft:overworld]
+[28Jul2025 17:55:39.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 17:55:39.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 17:57:11.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lu_dev> listo arrbia
+[28Jul2025 17:58:21.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected '}'
+[28Jul2025 17:58:21.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...",lvl:1s}]<--[HERE]
+[28Jul2025 17:58:36.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lu_dev> gracias
+[28Jul2025 17:59:13.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Enchanted Book] to Lu_dev
+[28Jul2025 18:00:29.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1000 experience levels to Lu_dev
+[28Jul2025 18:00:39.333] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 18:00:39.354] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 18:00:47.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Enchanted Book] to Lu_dev
+[28Jul2025 18:00:49.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Enchanted Book] to Lu_dev
+[28Jul2025 18:00:49.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Enchanted Book] to Lu_dev
+[28Jul2025 18:00:50.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Enchanted Book] to Lu_dev
+[28Jul2025 18:00:51.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Enchanted Book] to Lu_dev
