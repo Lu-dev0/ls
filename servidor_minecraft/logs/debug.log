@@ -5326,3 +5326,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jul2025 00:33:15.297] [Worker-Main-20/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation NONE at (-1283 | 31 | 810)
 [28Jul2025 00:33:39.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has made the advancement [Funeral Theft]
 [28Jul2025 00:33:58.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has completed the challenge [Cover me with... scutes?]
+[28Jul2025 00:35:42.676] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 00:35:42.698] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 00:38:44.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has made the advancement [Your First Receptacle]
+[28Jul2025 00:40:42.637] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 00:40:42.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 00:45:05.722] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[28Jul2025 00:45:05.724] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[28Jul2025 00:45:13.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev was impaled by Drowned
+[28Jul2025 00:45:13.530] [Server thread/DEBUG] [tombstone/]: A new grave of the player Lu_dev was created at position [x:663, y:59, z:1099, dim:minecraft:overworld]

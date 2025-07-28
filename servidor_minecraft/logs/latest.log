@@ -40,3 +40,7 @@
 [28Jul2025 00:30:34.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lu_dev moved too quickly! 1.261759794859472,37.0,0.0
 [28Jul2025 00:33:39.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has made the advancement [Funeral Theft]
 [28Jul2025 00:33:58.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has completed the challenge [Cover me with... scutes?]
+[28Jul2025 00:38:44.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has made the advancement [Your First Receptacle]
+[28Jul2025 00:45:05.722] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[28Jul2025 00:45:05.724] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[28Jul2025 00:45:13.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev was impaled by Drowned
