@@ -5529,3 +5529,45 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jul2025 18:00:49.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Enchanted Book] to Lu_dev
 [28Jul2025 18:00:50.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Enchanted Book] to Lu_dev
 [28Jul2025 18:00:51.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Enchanted Book] to Lu_dev
+[28Jul2025 18:05:39.330] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 18:05:39.352] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 18:05:52.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lu_dev moved too quickly! -4.881620407104492E-5,36.625,0.0
+[28Jul2025 18:05:56.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [Below the Bedrock]
+[28Jul2025 18:05:56.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sele207 moved too quickly! -2.031768282069379,-35.799999952316284,0.0
+[28Jul2025 18:05:57.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has reached the goal [Abyssal Descent]
+[28Jul2025 18:05:57.318] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lu_dev moved too quickly! -4.881620407104492E-5,-35.799999952316284,0.0
+[28Jul2025 18:07:49.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has completed the challenge [It Spreads]
+[28Jul2025 18:08:57.503] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [0 above bottom--8 absolute]
+[28Jul2025 18:08:57.548] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[28Jul2025 18:08:57.576] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[28Jul2025 18:08:58.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev experienced kinetic energy
+[28Jul2025 18:08:58.614] [Server thread/DEBUG] [tombstone/]: A new grave of the player Lu_dev was created at position [x:-1406, y:44, z:1031, dim:deeperdarker:otherside]
+[28Jul2025 18:08:58.615] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[28Jul2025 18:10:13.261] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[28Jul2025 18:10:13.270] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[28Jul2025 18:10:39.330] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 18:10:39.351] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 18:10:49.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 experienced kinetic energy
+[28Jul2025 18:10:49.008] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sele207 was created at position [x:-1364, y:41, z:1028, dim:deeperdarker:otherside]
+[28Jul2025 18:11:06.658] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[28Jul2025 18:11:06.661] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[28Jul2025 18:11:30.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 was slain by Warden
+[28Jul2025 18:11:30.013] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sele207 was created at position [x:-1368, y:40, z:1028, dim:deeperdarker:otherside]
+[28Jul2025 18:12:30.073] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[28Jul2025 18:12:30.078] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[28Jul2025 18:12:49.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 was slain by Shattered
+[28Jul2025 18:12:49.578] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sele207 was created at position [x:-1408, y:35, z:1005, dim:deeperdarker:otherside]
+[28Jul2025 18:13:36.960] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[28Jul2025 18:13:36.965] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[28Jul2025 18:14:02.211] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[28Jul2025 18:14:02.213] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[28Jul2025 18:14:06.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 was slain by Shriek Worm
+[28Jul2025 18:14:06.674] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sele207 was created at position [x:-1411, y:39, z:1017, dim:deeperdarker:otherside]
+[28Jul2025 18:14:08.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev experienced kinetic energy
+[28Jul2025 18:14:08.666] [Server thread/DEBUG] [tombstone/]: A new grave of the player Lu_dev was created at position [x:-1411, y:39, z:1013, dim:deeperdarker:otherside]
+[28Jul2025 18:14:21.614] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[28Jul2025 18:14:21.620] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[28Jul2025 18:14:28.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev was slain by Warden
+[28Jul2025 18:14:28.761] [Server thread/DEBUG] [tombstone/]: A new grave of the player Lu_dev was created at position [x:-1411, y:40, z:1020, dim:deeperdarker:otherside]
+[28Jul2025 18:14:50.956] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[28Jul2025 18:14:50.962] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved

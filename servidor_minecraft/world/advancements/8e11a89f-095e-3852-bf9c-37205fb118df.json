@@ -740,6 +740,7 @@
       "minecraft:dark_forest": "2025-07-24 21:05:29 +0000",
       "minecraft:river": "2025-07-24 21:46:18 +0000",
       "minecraft:lukewarm_ocean": "2025-07-26 03:14:20 +0000",
+      "minecraft:stony_shore": "2025-07-28 18:05:37 +0000",
       "minecraft:dripstone_caves": "2025-07-28 17:43:12 +0000",
       "minecraft:forest": "2025-07-27 21:27:19 +0000",
       "minecraft:lush_caves": "2025-07-25 21:12:28 +0000",
@@ -5567,9 +5568,21 @@
     },
     "done": true
   },
+  "deeperdarker:main/enter_otherside": {
+    "criteria": {
+      "otherside": "2025-07-28 18:05:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-07-28 17:56:11 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_temple": {
+    "criteria": {
+      "ancient_temple": "2025-07-28 18:05:57 +0000"
     },
     "done": true
   },
@@ -5591,6 +5604,18 @@
     },
     "done": true
   },
+  "deeperdarker:main/explore_otherside": {
+    "criteria": {
+      "deeplands": "2025-07-28 18:05:57 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/combat/sonorous_staff": {
+    "criteria": {
+      "has_sculk_bone": "2025-07-28 18:07:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-07-28 17:56:07 +0000"
@@ -5606,6 +5631,18 @@
   "minecraft:adventure/totem_of_undying": {
     "criteria": {
       "used_totem": "2025-07-28 17:53:54 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/soundproof_glass": {
+    "criteria": {
+      "has_soul_dust": "2025-07-28 18:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-07-28 18:07:49 +0000"
     },
     "done": true
   },
@@ -5626,6 +5663,12 @@
       "has_oxeye_daisy": "2025-07-28 17:50:24 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "shattered": "2025-07-28 18:07:49 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
