@@ -43,9 +43,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2025-07-28 00:50:42 +0000",
       "log_spam_fixer": "2025-07-24 21:01:12 +0000"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/root": {
     "criteria": {
@@ -542,7 +543,8 @@
       "minecraft:jungle": "2025-07-25 21:08:00 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-26 02:50:52 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-24 21:29:16 +0000",
-      "minecraft:deep_dark": "2025-07-26 14:09:38 +0000"
+      "minecraft:deep_dark": "2025-07-26 14:09:38 +0000",
+      "minecraft:plains": "2025-07-28 00:46:17 +0000"
     },
     "done": false
   },
@@ -5152,6 +5154,18 @@
   "deeperdarker:recipes/building_blocks/sculk_grime_bricks": {
     "criteria": {
       "has_grime_brick": "2025-07-28 00:13:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-28 00:47:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-07-28 00:47:44 +0000"
     },
     "done": true
   },

@@ -44,3 +44,21 @@
 [28Jul2025 00:45:05.722] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
 [28Jul2025 00:45:05.724] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
 [28Jul2025 00:45:13.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev was impaled by Drowned
+[28Jul2025 00:53:35.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has made the advancement [We Need to Go Deeper]
+[28Jul2025 00:53:35.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has made the advancement [Incendium]
+[28Jul2025 00:53:37.956] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6510ms or 130 ticks behind
+[28Jul2025 00:53:38.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has made the advancement [Strange Biomes]
+[28Jul2025 00:53:38.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has made the advancement [Hellish Paradise]
+[28Jul2025 00:53:38.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [We Need to Go Deeper]
+[28Jul2025 00:53:38.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [Incendium]
+[28Jul2025 00:53:41.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [Strange Biomes]
+[28Jul2025 00:53:41.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [Hellish Paradise]
+[28Jul2025 00:54:20.653] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/82506, l='ServerLevel[world]', x=-37.30, y=30.74, z=53.40] died: Sanctum Cultist tried to swim in lava
+[28Jul2025 00:54:31.388] [Worker-Main-12/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[28Jul2025 00:54:46.771] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[28Jul2025 00:54:46.775] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[28Jul2025 00:54:55.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lu_dev moved too quickly! 0.64217952601566,-1.0,-9.946899652149085
+[28Jul2025 00:55:14.818] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[28Jul2025 00:55:14.829] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[28Jul2025 00:55:20.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 withered away
+[28Jul2025 00:55:20.870] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
