@@ -5141,6 +5141,24 @@
     },
     "done": true
   },
+  "deeperdarker:main/find_ancient_temple": {
+    "criteria": {
+      "ancient_temple": "2025-07-28 00:11:31 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_grime_bricks": {
+    "criteria": {
+      "has_grime_brick": "2025-07-28 00:13:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-07-28 00:13:55 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/bloom_planks": {
     "criteria": {
       "has_logs": "2025-07-27 23:49:36 +0000"
