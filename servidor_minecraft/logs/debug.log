@@ -5358,3 +5358,59 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jul2025 00:55:20.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 withered away
 [28Jul2025 00:55:20.869] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sele207 was created at position [x:55, y:75, z:152, dim:minecraft:the_nether]
 [28Jul2025 00:55:20.870] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[28Jul2025 00:55:49.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 00:55:49.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 00:57:38.286] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[28Jul2025 00:59:27.011] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[28Jul2025 00:59:38.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [A Terrible Fortress]
+[28Jul2025 00:59:40.216] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[28Jul2025 00:59:40.218] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[28Jul2025 00:59:47.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev went up in flames
+[28Jul2025 00:59:47.214] [Server thread/DEBUG] [tombstone/]: A new grave of the player Lu_dev was created at position [x:82, y:76, z:-187, dim:minecraft:the_nether]
+[28Jul2025 00:59:57.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sele207 moved too quickly! 10.051638921879388,0.0,-0.6407718089317882
+[28Jul2025 01:00:03.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has made the advancement [A Terrible Fortress]
+[28Jul2025 01:00:11.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has made the advancement [Into Fire]
+[28Jul2025 01:00:49.126] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 01:00:49.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 01:01:17.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [Race Against The Clock]
+[28Jul2025 01:01:31.511] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[28Jul2025 01:01:31.513] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[28Jul2025 01:01:39.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 was killed by magic
+[28Jul2025 01:01:39.871] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sele207 was created at position [x:39, y:74, z:-214, dim:minecraft:the_nether]
+[28Jul2025 01:01:52.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [Into Fire]
+[28Jul2025 01:02:02.394] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[28Jul2025 01:02:02.415] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[28Jul2025 01:02:09.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev went up in flames
+[28Jul2025 01:02:09.072] [Server thread/DEBUG] [tombstone/]: A new grave of the player Lu_dev was created at position [x:48, y:77, z:-205, dim:minecraft:the_nether]
+[28Jul2025 01:02:42.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [Ender Distancing]
+[28Jul2025 01:02:44.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [Capsid-19]
+[28Jul2025 01:05:49.009] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[28Jul2025 01:05:49.011] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[28Jul2025 01:05:49.120] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 01:05:49.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 01:05:56.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev burned to death
+[28Jul2025 01:05:56.422] [Server thread/DEBUG] [tombstone/]: A new grave of the player Lu_dev was created at position [x:43, y:76, z:-215, dim:minecraft:the_nether]
+[28Jul2025 01:10:18.163] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/110602, l='ServerLevel[world]', x=144.64, y=30.47, z=-412.65] died: Sanctum Cultist tried to swim in lava
+[28Jul2025 01:10:49.142] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 01:10:49.161] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 01:11:01.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has reached the goal [An Illager Refuge?]
+[28Jul2025 01:11:06.199] [Server thread/DEBUG] [mixin/]: Mixing blocks.PistonStructureResolverMixin from the_bumblezone-common.mixins.json into net.minecraft.world.level.block.piston.PistonStructureResolver
+[28Jul2025 01:11:33.764] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[28Jul2025 01:11:33.765] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[28Jul2025 01:11:37.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [The Floor is Tears]
+[28Jul2025 01:11:37.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 tried to swim in lava
+[28Jul2025 01:11:37.968] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sele207 was created at position [x:93, y:32, z:-137, dim:minecraft:the_nether]
+[28Jul2025 01:11:37.969] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[28Jul2025 01:11:52.970] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lu_dev moved too quickly! -17.670045232001954,1.8615474836889518,1.7521991641584975
+[28Jul2025 01:12:24.716] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[28Jul2025 01:12:24.717] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[28Jul2025 01:12:33.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 tried to swim in lava
+[28Jul2025 01:12:33.516] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sele207 was created at position [x:109, y:32, z:-134, dim:minecraft:the_nether]
+[28Jul2025 01:14:12.365] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Inquisitor'/116058, l='ServerLevel[world]', x=103.48, y=36.06, z=-424.94] died: Sanctum Inquisitor went up in flames
+[28Jul2025 01:14:30.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has reached the goal [An Illager Refuge?]
+[28Jul2025 01:14:41.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has made the advancement [The Floor is Tears]
+[28Jul2025 01:15:13.222] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Inquisitor'/116060, l='ServerLevel[world]', x=105.89, y=36.06, z=-424.13] died: Sanctum Inquisitor went up in flames
+[28Jul2025 01:15:39.519] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/115953, l='ServerLevel[world]', x=93.53, y=68.00, z=-410.93] died: 1$s has perished from holy damage
+[28Jul2025 01:15:47.216] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/116045, l='ServerLevel[world]', x=97.14, y=59.41, z=-408.31] died: 1$s has perished from unholy damage
+[28Jul2025 01:15:49.143] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 01:15:49.162] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
