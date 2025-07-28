@@ -1286,6 +1286,7 @@
       "biomeswevegone:ebony_woods": "2025-07-25 21:08:30 +0000",
       "biomeswevegone:basalt_barrera": "2025-07-25 21:07:45 +0000",
       "biomeswevegone:aspen_boreal": "2025-07-25 19:05:51 +0000",
+      "biomeswevegone:allium_shrubland": "2025-07-28 00:05:43 +0000",
       "biomeswevegone:rainbow_beach": "2025-07-26 03:31:53 +0000"
     },
     "done": false
@@ -5281,6 +5282,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-07-27 23:52:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-07-28 00:09:15 +0000"
     },
     "done": true
   },
