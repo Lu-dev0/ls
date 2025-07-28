@@ -507,3 +507,36 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jul2025 18:14:28.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev was slain by Warden
 [28Jul2025 18:14:50.956] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
 [28Jul2025 18:14:50.962] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[28Jul2025 18:15:23.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 was slain by Warden
+[28Jul2025 18:18:31.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [Sneak 100]
+[28Jul2025 18:18:56.557] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[28Jul2025 18:18:56.561] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[28Jul2025 18:19:02.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev was slain by Warden
+[28Jul2025 18:19:15.810] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[28Jul2025 18:19:15.814] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[28Jul2025 18:20:09.005] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[28Jul2025 18:20:09.009] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[28Jul2025 18:20:15.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev was slain by Warden
+[28Jul2025 18:20:28.258] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[28Jul2025 18:20:28.261] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[28Jul2025 18:23:31.508] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[28Jul2025 18:23:31.510] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[28Jul2025 18:23:43.358] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[28Jul2025 18:23:43.360] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[28Jul2025 18:23:49.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev was slain by Warden
+[28Jul2025 18:23:56.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 was slain by Warden
+[28Jul2025 18:24:09.907] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[28Jul2025 18:24:09.913] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[28Jul2025 18:24:13.008] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[28Jul2025 18:24:13.013] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[28Jul2025 18:24:15.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev was slain by Warden
+[28Jul2025 18:24:23.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 was slain by Warden
+[28Jul2025 18:24:34.107] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[28Jul2025 18:24:34.113] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[28Jul2025 18:24:40.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev was slain by Warden
+[28Jul2025 18:24:50.338] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[28Jul2025 18:24:50.345] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[28Jul2025 18:24:55.057] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[28Jul2025 18:24:55.063] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[28Jul2025 18:25:05.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 was slain by Warden
+[28Jul2025 18:25:06.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev was slain by Warden
