@@ -389,3 +389,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Jul2025 00:25:38.743] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
 [29Jul2025 00:38:14.752] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@152fd387[id=<null>,name=Sele207,properties={},legacy=false] (/127.71.179.52:47385) lost connection: Disconnected
 [29Jul2025 00:39:24.346] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@73886497[id=<null>,name=Sele207,properties={},legacy=false] (/127.71.179.52:49919) lost connection: Disconnected
+[29Jul2025 00:46:48.108] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[29Jul2025 00:46:48.211] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sele207[/127.71.179.52:33997] logged in with entity id 613 at (-189.26344025413104, 224.0, 308.68893960114224)
+[29Jul2025 00:46:48.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 joined the game
+[29Jul2025 00:46:51.625] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sele207 (18)
+[29Jul2025 00:46:51.628] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sele207
