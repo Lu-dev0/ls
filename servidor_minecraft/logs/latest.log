@@ -400,3 +400,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Jul2025 02:02:53.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev suffocated in a wall
 [30Jul2025 02:02:53.538] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
 [30Jul2025 02:03:18.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sele207> DONDE ESTAS_
+[30Jul2025 02:04:33.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sele207> no crece
+[30Jul2025 02:04:37.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lu_dev> tienes que darle chance para que crezcan
+[30Jul2025 02:04:59.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sele207> traeme roble oscurp sin corteza porfa
+[30Jul2025 02:05:19.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lu_dev> vale
+[30Jul2025 02:07:10.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sele207> a mimir
+[30Jul2025 02:11:19.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lu_dev> tiene que ser oscuro ?
+[30Jul2025 02:11:34.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sele207> roble oscuro sin corteza
+[30Jul2025 02:12:11.444] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=287, y=25, z=-192}
+[30Jul2025 02:12:19.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has completed the challenge [The Power of the Sun]
