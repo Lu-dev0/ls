@@ -421,3 +421,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Jul2025 02:31:09.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lu_dev> donde conseguiste roble oscuro ?
 [30Jul2025 02:31:19.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sele207> en la isla
 [30Jul2025 02:35:57.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lu_dev> consegui
+[30Jul2025 02:49:12.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lu_dev> espero te sea suficiente
+[30Jul2025 02:49:22.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sele207> gracias vida
+[30Jul2025 03:00:04.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lu_dev moved too quickly! 0.4677682621224335,-3.118508350858434,-19.669679935723565
+[30Jul2025 03:03:24.630] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-545, y=-54, z=-80}
+[30Jul2025 03:04:46.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lu_dev> mor y los libros ?

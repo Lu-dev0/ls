@@ -5481,6 +5481,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-07-30 03:00:33 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/woodcutting/dark_oak/stripped_dark_oak_log_from_dark_oak_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-30 02:36:57 +0000"
@@ -5526,6 +5532,12 @@
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-07-30 02:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-07-30 02:46:25 +0000"
     },
     "done": true
   },
