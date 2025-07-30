@@ -1,1 +1,2 @@
 [30Jul2025 00:01:57.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [Gone Bananas!]
+[30Jul2025 01:18:30.825] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-408, y=230, z=356} BlockPos{x=-408, y=228, z=357}
