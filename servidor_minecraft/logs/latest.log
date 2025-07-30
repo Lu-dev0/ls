@@ -414,3 +414,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Jul2025 02:16:38.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev fell from a high place
 [30Jul2025 02:17:01.180] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=751, y=-12, z=-596}
 [30Jul2025 02:18:10.316] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/19126, l='ServerLevel[world]', x=457.50, y=53.00, z=-334.50]
+[30Jul2025 02:28:59.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lu_dev> no consigo roble jaja
+[30Jul2025 02:30:26.800] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=332, y=-37, z=794}
+[30Jul2025 02:30:26.801] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=333, y=-37, z=794}
+[30Jul2025 02:30:34.703] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=884, y=18, z=614}
+[30Jul2025 02:31:09.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lu_dev> donde conseguiste roble oscuro ?
+[30Jul2025 02:31:19.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sele207> en la isla
