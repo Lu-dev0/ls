@@ -544,6 +544,7 @@
       "minecraft:lush_caves": "2025-07-25 21:13:19 +0000",
       "minecraft:ocean": "2025-07-24 21:26:00 +0000",
       "minecraft:jungle": "2025-07-25 21:08:00 +0000",
+      "minecraft:windswept_savanna": "2025-07-30 02:30:40 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-26 02:50:52 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-24 21:29:16 +0000",
       "minecraft:deep_dark": "2025-07-26 14:09:38 +0000",
@@ -5480,9 +5481,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/stripped_dark_oak_log_from_dark_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-30 02:36:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-07-30 02:04:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-30 02:37:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-30 02:37:11 +0000"
     },
     "done": true
   },
@@ -5501,6 +5520,36 @@
   "alexsmobs:alexsmobs/sunbird_blessing": {
     "criteria": {
       "all_effects": "2025-07-30 02:12:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-07-30 02:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_stripped_dark_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-30 02:37:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-30 02:36:57 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-07-30 02:33:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-30 02:36:57 +0000"
     },
     "done": true
   },
