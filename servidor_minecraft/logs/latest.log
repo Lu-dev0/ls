@@ -391,3 +391,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Jul2025 01:49:53.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 joined the game
 [30Jul2025 01:49:54.053] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sele207 (18)
 [30Jul2025 01:49:54.056] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sele207
+[30Jul2025 02:02:32.150] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lu_dev[/127.71.179.52:49063] logged in with entity id 4206 at (-199.84737950660573, 224.0, 313.0412442342481)
+[30Jul2025 02:02:32.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev joined the game
+[30Jul2025 02:02:34.087] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Lu_dev (18)
+[30Jul2025 02:02:34.087] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Lu_dev
+[30Jul2025 02:02:48.030] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[30Jul2025 02:02:48.043] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[30Jul2025 02:02:53.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev suffocated in a wall
+[30Jul2025 02:02:53.538] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[30Jul2025 02:03:18.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sele207> DONDE ESTAS_
