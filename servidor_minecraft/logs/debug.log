@@ -6413,3 +6413,51 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Jul2025 02:14:28.716] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation COUNTERCLOCKWISE_90 at (100 | 15 | -486)
 [30Jul2025 02:14:28.717] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison at (100 | 15 | -486)
 [30Jul2025 02:14:28.718] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison at (100 | 15 | -486)
+[30Jul2025 02:14:29.861] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (190 | 5 | -531)
+[30Jul2025 02:14:29.861] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (190 | 5 | -531)
+[30Jul2025 02:14:29.872] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (190 | 5 | -531)
+[30Jul2025 02:14:29.872] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (190 | 5 | -531)
+[30Jul2025 02:14:30.200] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (142 | 42 | -543)
+[30Jul2025 02:14:30.200] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (142 | 42 | -543)
+[30Jul2025 02:14:30.200] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (141 | 42 | -541)
+[30Jul2025 02:14:30.200] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (141 | 42 | -541)
+[30Jul2025 02:14:30.200] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation NONE at (138 | 42 | -556)
+[30Jul2025 02:14:30.200] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation NONE at (138 | 42 | -556)
+[30Jul2025 02:14:30.200] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (141 | 42 | -536)
+[30Jul2025 02:14:30.200] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (141 | 42 | -536)
+[30Jul2025 02:14:30.215] [Worker-Main-46/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_180 at (111 | 42 | -556)
+[30Jul2025 02:14:30.215] [Worker-Main-46/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_180 at (111 | 42 | -556)
+[30Jul2025 02:14:30.226] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (142 | 42 | -543)
+[30Jul2025 02:14:30.226] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (142 | 42 | -543)
+[30Jul2025 02:14:30.226] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (141 | 42 | -541)
+[30Jul2025 02:14:30.226] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (141 | 42 | -541)
+[30Jul2025 02:14:30.226] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation NONE at (138 | 42 | -556)
+[30Jul2025 02:14:30.226] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation NONE at (138 | 42 | -556)
+[30Jul2025 02:14:30.226] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (141 | 42 | -536)
+[30Jul2025 02:14:30.226] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (141 | 42 | -536)
+[30Jul2025 02:15:04.644] [Worker-Main-46/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation NONE at (138 | 42 | -556)
+[30Jul2025 02:15:04.645] [Worker-Main-46/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation NONE at (138 | 42 | -556)
+[30Jul2025 02:15:04.904] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (126 | 42 | -552)
+[30Jul2025 02:15:04.904] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (126 | 42 | -552)
+[30Jul2025 02:15:04.904] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_180 at (136 | 42 | -552)
+[30Jul2025 02:15:04.904] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_180 at (136 | 42 | -552)
+[30Jul2025 02:15:04.904] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation NONE at (131 | 42 | -552)
+[30Jul2025 02:15:04.904] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation NONE at (131 | 42 | -552)
+[30Jul2025 02:15:04.905] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation NONE at (138 | 42 | -556)
+[30Jul2025 02:15:04.905] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation NONE at (138 | 42 | -556)
+[30Jul2025 02:15:04.912] [Worker-Main-13/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation NONE at (124 | 42 | -552)
+[30Jul2025 02:15:04.913] [Worker-Main-13/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation NONE at (124 | 42 | -552)
+[30Jul2025 02:15:04.913] [Worker-Main-13/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (126 | 42 | -552)
+[30Jul2025 02:15:04.913] [Worker-Main-13/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (126 | 42 | -552)
+[30Jul2025 02:15:04.913] [Worker-Main-13/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_180 at (111 | 42 | -556)
+[30Jul2025 02:15:04.913] [Worker-Main-13/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_180 at (111 | 42 | -556)
+[30Jul2025 02:15:33.611] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jul2025 02:15:33.631] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jul2025 02:16:31.765] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[30Jul2025 02:16:31.811] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[30Jul2025 02:16:38.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev fell from a high place
+[30Jul2025 02:16:38.107] [Server thread/DEBUG] [tombstone/]: A new grave of the player Lu_dev was created at position [x:547, y:71, z:-417, dim:minecraft:overworld]
+[30Jul2025 02:17:01.180] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=751, y=-12, z=-596}
+[30Jul2025 02:18:10.316] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/19126, l='ServerLevel[world]', x=457.50, y=53.00, z=-334.50]
+[30Jul2025 02:20:33.525] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jul2025 02:20:33.545] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

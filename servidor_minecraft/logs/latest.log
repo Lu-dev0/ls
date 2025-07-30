@@ -409,3 +409,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Jul2025 02:11:34.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sele207> roble oscuro sin corteza
 [30Jul2025 02:12:11.444] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=287, y=25, z=-192}
 [30Jul2025 02:12:19.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has completed the challenge [The Power of the Sun]
+[30Jul2025 02:16:31.765] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[30Jul2025 02:16:31.811] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[30Jul2025 02:16:38.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev fell from a high place
+[30Jul2025 02:17:01.180] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=751, y=-12, z=-596}
+[30Jul2025 02:18:10.316] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/19126, l='ServerLevel[world]', x=457.50, y=53.00, z=-334.50]
