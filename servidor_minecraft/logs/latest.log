@@ -398,3 +398,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Jul2025 02:19:34.820] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
 [31Jul2025 02:19:46.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has completed the challenge [Almost Unkillable]
 [31Jul2025 02:19:46.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 was slain by Husk
+[31Jul2025 02:28:07.855] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1181, y=-40, z=705}
