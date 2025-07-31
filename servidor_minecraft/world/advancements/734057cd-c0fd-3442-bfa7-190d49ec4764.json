@@ -532,6 +532,7 @@
       "minecraft:mushroom_fields": "2025-07-26 02:50:19 +0000",
       "minecraft:taiga": "2025-07-24 22:15:34 +0000",
       "minecraft:deep_ocean": "2025-07-24 22:00:12 +0000",
+      "minecraft:frozen_river": "2025-07-31 01:56:31 +0000",
       "minecraft:birch_forest": "2025-07-24 22:14:47 +0000",
       "minecraft:bamboo_jungle": "2025-07-25 21:41:01 +0000",
       "minecraft:beach": "2025-07-24 21:24:30 +0000",
@@ -539,7 +540,9 @@
       "minecraft:river": "2025-07-24 21:46:16 +0000",
       "minecraft:lukewarm_ocean": "2025-07-26 03:14:31 +0000",
       "minecraft:stony_shore": "2025-07-24 22:54:20 +0000",
+      "minecraft:snowy_plains": "2025-07-31 01:56:25 +0000",
       "minecraft:dripstone_caves": "2025-07-26 14:06:11 +0000",
+      "minecraft:snowy_taiga": "2025-07-31 01:56:33 +0000",
       "minecraft:forest": "2025-07-28 00:35:25 +0000",
       "minecraft:lush_caves": "2025-07-25 21:13:19 +0000",
       "minecraft:ocean": "2025-07-24 21:26:00 +0000",
@@ -1399,8 +1402,10 @@
       "biomeswevegone:ebony_woods": "2025-07-26 01:29:34 +0000",
       "biomeswevegone:basalt_barrera": "2025-07-26 01:29:45 +0000",
       "biomeswevegone:aspen_boreal": "2025-07-24 22:45:44 +0000",
+      "biomeswevegone:frosted_coniferous_forest": "2025-07-31 01:56:07 +0000",
       "biomeswevegone:skyrise_vale": "2025-07-24 22:15:13 +0000",
       "biomeswevegone:allium_shrubland": "2025-07-24 23:13:10 +0000",
+      "biomeswevegone:overgrowth_woodlands": "2025-07-31 01:57:13 +0000",
       "biomeswevegone:rainbow_beach": "2025-07-26 03:31:51 +0000"
     },
     "done": false

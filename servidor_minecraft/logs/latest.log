@@ -396,3 +396,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Jul2025 01:46:02.773] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Lu_dev
 [31Jul2025 01:51:04.224] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=15, y=-31, z=1420}
 [31Jul2025 01:51:04.224] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=14, y=-31, z=1420}
+[31Jul2025 01:52:37.072] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4987ms or 99 ticks behind
+[31Jul2025 01:53:49.361] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Protector'/13993, l='ServerLevel[world]', x=-87.49, y=32.00, z=124.70] died: Sanctum Protector discovered the floor was lava
+[31Jul2025 01:56:05.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lu_dev> [x:-1598, y:106, z:1163, dim:minecraft:overworld]
+[31Jul2025 01:56:24.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lu_dev moved too quickly! 16.63852856465408,-2.4008256338986484,-4.718206443581494
+[31Jul2025 01:57:29.613] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-122, y=-40, z=1608}
+[31Jul2025 01:57:43.557] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=204, y=-24, z=1494}
+[31Jul2025 01:57:43.557] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=204, y=-24, z=1496}
+[31Jul2025 01:58:05.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sele207 moved wrongly!
+[31Jul2025 01:59:19.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has made the advancement [Pic-A-Nic Basket?]
+[31Jul2025 02:02:03.759] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-34, y=-12, z=2263}
