@@ -747,6 +747,7 @@
       "minecraft:lush_caves": "2025-07-25 21:12:28 +0000",
       "minecraft:ocean": "2025-07-24 21:25:53 +0000",
       "minecraft:jungle": "2025-07-25 21:09:45 +0000",
+      "minecraft:windswept_savanna": "2025-07-30 23:53:42 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-26 03:08:37 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-24 21:33:16 +0000",
       "minecraft:plains": "2025-07-27 21:29:39 +0000"
@@ -6140,6 +6141,66 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-07-30 23:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_allium_petal_block": {
+    "criteria": {
+      "has_pink_allium": "2025-07-30 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-07-30 23:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-07-30 23:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-07-30 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-07-30 23:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-07-30 23:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-07-30 23:55:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/allium_petal_block": {
+    "criteria": {
+      "has_allium": "2025-07-30 23:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-07-30 23:49:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-07-30 23:48:28 +0000"
     },
     "done": true
   },
