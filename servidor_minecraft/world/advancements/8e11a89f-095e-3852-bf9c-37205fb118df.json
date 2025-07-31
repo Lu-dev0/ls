@@ -1288,6 +1288,7 @@
       "biomeswevegone:fragment_jungle": "2025-07-25 21:15:54 +0000",
       "biomeswevegone:enchanted_tangle": "2025-07-25 21:08:01 +0000",
       "biomeswevegone:temperate_grove": "2025-07-25 21:07:49 +0000",
+      "biomeswevegone:forgotten_forest": "2025-07-31 02:06:29 +0000",
       "biomeswevegone:jacaranda_jungle": "2025-07-26 03:27:28 +0000",
       "biomeswevegone:lush_stacks": "2025-07-26 03:08:33 +0000",
       "biomeswevegone:maple_taiga": "2025-07-28 18:31:27 +0000",
@@ -6225,6 +6226,78 @@
   "minecraft:recipes/misc/orange_dye_from_bwg_dye_tag": {
     "criteria": {
       "has_dye_tag": "2025-07-31 00:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-07-31 02:02:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-07-31 02:02:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-07-31 02:04:10 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/food/cooked_oddion_bulb_from_campfire": {
+    "criteria": {
+      "has_oddion_bulb": "2025-07-31 02:07:06 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/food/cooked_oddion_bulb_from_smelting": {
+    "criteria": {
+      "has_oddion_bulb": "2025-07-31 02:07:06 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/food/cooked_oddion_bulb_from_smoker": {
+    "criteria": {
+      "has_oddion_bulb": "2025-07-31 02:07:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-07-31 02:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-07-31 02:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-31 02:07:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-31 02:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-31 02:07:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-31 02:07:17 +0000"
     },
     "done": true
   },
