@@ -43,9 +43,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2025-07-31 01:48:10 +0000",
       "log_spam_fixer": "2025-07-24 20:49:26 +0000"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/root": {
     "criteria": {
