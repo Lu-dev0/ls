@@ -6144,27 +6144,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/pink_allium_petal_block": {
-    "criteria": {
-      "has_pink_allium": "2025-07-30 23:49:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_bwg_dye_tag": {
-    "criteria": {
-      "has_dye_tag": "2025-07-30 23:49:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-07-30 23:48:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_bwg_dye_tag": {
-    "criteria": {
-      "has_dye_tag": "2025-07-30 23:49:06 +0000"
     },
     "done": true
   },
@@ -6174,21 +6156,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_allium": {
+  "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
-      "has_allium": "2025-07-30 23:49:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/green_dye_from_bwg_dye_tag": {
-    "criteria": {
-      "has_dye_tag": "2025-07-30 23:55:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/allium_petal_block": {
-    "criteria": {
-      "has_allium": "2025-07-30 23:49:15 +0000"
+      "has_potato": "2025-07-30 23:48:28 +0000"
     },
     "done": true
   },
@@ -6198,9 +6168,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
+  "minecraft:recipes/decorations/pink_allium_petal_block": {
     "criteria": {
-      "has_potato": "2025-07-30 23:48:28 +0000"
+      "has_pink_allium": "2025-07-30 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-07-30 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-07-30 23:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/allium_petal_block": {
+    "criteria": {
+      "has_allium": "2025-07-30 23:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-07-30 23:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-07-30 23:55:12 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:misc/yellow_dye_from_buttercup": {
+    "criteria": {
+      "has_buttercup": "2025-07-30 23:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2025-07-30 23:59:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-30 23:59:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-07-31 00:39:41 +0000"
     },
     "done": true
   },
