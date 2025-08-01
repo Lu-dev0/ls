@@ -5227,3 +5227,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01Aug2025 20:25:27.919] [Server thread/DEBUG] [tombstone/]: A new grave of the player Lu_dev was created at position [x:-172, y:32, z:131, dim:minecraft:the_nether]
 [01Aug2025 20:25:27.922] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
 [01Aug2025 20:25:44.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lu_dev> en el nether
+[01Aug2025 20:25:52.754] [Server thread/DEBUG] [mixin/]: Mixing gameplay.CooldownInstanceAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[01Aug2025 20:25:55.082] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2559ms or 51 ticks behind
+[01Aug2025 20:26:16.497] [Server thread/DEBUG] [mixin/]: Mixing blocks.PistonStructureResolverMixin from the_bumblezone-common.mixins.json into net.minecraft.world.level.block.piston.PistonStructureResolver
+[01Aug2025 20:26:49.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has made the advancement [Spooky Scary Skeleton]
+[01Aug2025 20:27:06.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2025 20:27:06.634] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2025 20:28:22.205] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[01Aug2025 20:28:22.211] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[01Aug2025 20:28:28.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev was slain by Wither Skeleton
+[01Aug2025 20:28:28.959] [Server thread/DEBUG] [tombstone/]: A new grave of the player Lu_dev was created at position [x:-165, y:60, z:73, dim:minecraft:the_nether]
+[01Aug2025 20:28:40.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2252ms or 45 ticks behind
+[01Aug2025 20:29:24.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has made the advancement [Amateur Archaeologist]
+[01Aug2025 20:31:41.131] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[01Aug2025 20:32:10.897] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2025 20:32:10.919] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2025 20:32:43.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lu_dev moved too quickly! -4.881620407104492E-5,-35.799999952316284,0.0
+[01Aug2025 20:34:07.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lu_dev moved too quickly! -4.881620407104492E-5,37.0,0.0

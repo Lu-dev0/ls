@@ -490,6 +490,7 @@
       "minecraft:pillager": "2025-07-24 23:10:28 +0000",
       "minecraft:blaze": "2025-07-28 01:00:10 +0000",
       "minecraft:skeleton": "2025-07-24 21:05:17 +0000",
+      "minecraft:hoglin": "2025-08-01 20:23:00 +0000",
       "minecraft:vindicator": "2025-07-24 23:10:46 +0000",
       "minecraft:magma_cube": "2025-07-25 21:31:36 +0000",
       "minecraft:spider": "2025-07-24 21:05:54 +0000",
@@ -497,6 +498,7 @@
       "minecraft:creeper": "2025-07-24 23:24:10 +0000",
       "minecraft:evoker": "2025-07-28 01:22:48 +0000",
       "minecraft:phantom": "2025-07-27 23:20:57 +0000",
+      "minecraft:zombified_piglin": "2025-08-01 20:27:16 +0000",
       "minecraft:witch": "2025-07-30 02:26:01 +0000",
       "minecraft:wither_skeleton": "2025-07-26 00:39:52 +0000",
       "minecraft:cave_spider": "2025-07-24 21:24:24 +0000",
@@ -5708,6 +5710,30 @@
   "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2025-08-01 19:55:13 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-08-01 20:23:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-08-01 20:26:49 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-08-01 20:29:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-08-01 20:26:49 +0000"
     },
     "done": true
   },
