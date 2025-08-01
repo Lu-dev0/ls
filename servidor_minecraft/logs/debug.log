@@ -6589,3 +6589,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01Aug2025 19:51:28.601] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_180 at (-879 | 16 | 2615)
 [01Aug2025 19:51:28.601] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_180 at (-879 | 16 | 2615)
 [01Aug2025 19:53:01.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev has completed the challenge [Free Willy]
+[01Aug2025 19:55:39.745] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2025 19:55:39.770] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2025 20:00:39.714] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2025 20:00:39.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
