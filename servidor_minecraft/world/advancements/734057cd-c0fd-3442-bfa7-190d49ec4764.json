@@ -5250,6 +5250,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-08-01 20:21:32 +0000",
       "minecraft:soul_sand_valley": "2025-07-28 00:57:27 +0000"
     },
     "done": false
@@ -5668,15 +5669,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_nether_brick_wall": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-08-01 19:55:13 +0000"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/orcas_might": {
     "criteria": {
       "all_effects": "2025-08-01 19:53:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-08-01 19:55:13 +0000"
     },
     "done": true
   },
