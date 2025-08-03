@@ -6458,5 +6458,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-08-03 20:43:08 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
