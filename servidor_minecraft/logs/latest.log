@@ -388,3 +388,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Aug2025 19:18:56.687] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sele207
 [03Aug2025 19:18:56.689] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
 [03Aug2025 19:18:58.691] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ArchelonEntity['Archelon'/668, l='ServerLevel[world]', x=-32.00, y=61.90, z=302.10]
+[03Aug2025 19:32:24.427] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[03Aug2025 19:32:24.437] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[03Aug2025 19:32:33.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 was doomed to fall
