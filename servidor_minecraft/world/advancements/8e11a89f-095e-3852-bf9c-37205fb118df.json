@@ -6392,5 +6392,11 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-08-03 17:58:49 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
