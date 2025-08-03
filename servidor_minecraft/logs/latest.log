@@ -389,3 +389,24 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Aug2025 20:53:51.260] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sele207 (18)
 [03Aug2025 20:53:51.263] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sele207
 [03Aug2025 20:55:57.434] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-246, y=226, z=277} BlockPos{x=-246, y=226, z=276}
+[03Aug2025 21:01:52.807] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=22, y=-40, z=-286}
+[03Aug2025 21:01:57.734] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=13, y=29, z=-339}
+[03Aug2025 21:02:07.938] [Worker-Main-26/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=128, y=27, z=-456}
+[03Aug2025 21:02:07.939] [Worker-Main-26/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=128, y=27, z=-457}
+[03Aug2025 21:02:07.940] [Worker-Main-26/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=128, y=27, z=-457}
+[03Aug2025 21:02:07.940] [Worker-Main-26/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=128, y=27, z=-456}
+[03Aug2025 21:02:07.941] [Worker-Main-26/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (128, 27, -456)
+[03Aug2025 21:04:10.211] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=756, y=-46, z=-396}
+[03Aug2025 21:04:10.212] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=756, y=-46, z=-397}
+[03Aug2025 21:04:17.634] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=739, y=-26, z=-647}
+[03Aug2025 21:05:02.393] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=762, y=-47, z=-584}
+[03Aug2025 21:05:02.446] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=756, y=-31, z=-600}
+[03Aug2025 21:05:20.046] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[03Aug2025 21:05:20.058] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[03Aug2025 21:05:27.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 fell from a high place
+[03Aug2025 21:06:10.179] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=739, y=-26, z=-647}
+[03Aug2025 21:06:35.791] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=763, y=-47, z=-584}
+[03Aug2025 21:06:35.791] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=761, y=-47, z=-584}
+[03Aug2025 21:06:46.547] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=857, y=-9, z=-461}
+[03Aug2025 21:07:14.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [Your First Receptacle]
+[03Aug2025 21:07:45.135] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=756, y=-31, z=-601}
