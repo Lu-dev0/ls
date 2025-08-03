@@ -384,3 +384,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Aug2025 14:05:12.759] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: smoothchunk.json
 [03Aug2025 14:05:12.765] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [03Aug2025 14:05:12.776] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[03Aug2025 14:14:27.403] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[03Aug2025 14:14:27.507] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sele207[/127.71.179.52:43099] logged in with entity id 567 at (-195.0669510872489, 219.5, 299.8461581471597)
+[03Aug2025 14:14:27.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 joined the game
+[03Aug2025 14:14:31.705] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sele207 (18)
+[03Aug2025 14:14:31.707] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sele207
