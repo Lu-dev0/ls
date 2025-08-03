@@ -391,3 +391,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Aug2025 23:12:47.433] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=799, y=-6, z=-696}
 [03Aug2025 23:20:01.961] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1320, y=-52, z=500}
 [03Aug2025 23:20:01.962] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1319, y=-52, z=500}
+[03Aug2025 23:20:50.183] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1140, y=34, z=602}
+[03Aug2025 23:20:50.184] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1141, y=34, z=602}
+[03Aug2025 23:26:04.799] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity IronGolem['Carensio'/23371, l='ServerLevel[world]', x=-234.34, y=224.00, z=351.18] died: Carensio was shot by Skeleton
