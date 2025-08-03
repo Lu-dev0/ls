@@ -6373,5 +6373,11 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/windswept_sandstone": {
+    "criteria": {
+      "has_windswept_sand": "2025-08-03 14:58:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
