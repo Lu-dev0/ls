@@ -386,3 +386,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Aug2025 00:49:10.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 joined the game
 [04Aug2025 00:49:11.353] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sele207 (18)
 [04Aug2025 00:49:11.355] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sele207
+[04Aug2025 00:55:55.824] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[04Aug2025 00:55:55.832] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[04Aug2025 00:56:03.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 was shot by Skeleton
