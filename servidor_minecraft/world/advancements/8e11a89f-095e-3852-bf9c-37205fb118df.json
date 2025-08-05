@@ -1291,6 +1291,7 @@
     "criteria": {
       "biomeswevegone:crag_gardens": "2025-07-26 03:27:26 +0000",
       "biomeswevegone:fragment_jungle": "2025-07-25 21:15:54 +0000",
+      "biomeswevegone:sakura_grove": "2025-08-05 23:06:19 +0000",
       "biomeswevegone:enchanted_tangle": "2025-07-25 21:08:01 +0000",
       "biomeswevegone:temperate_grove": "2025-07-25 21:07:49 +0000",
       "biomeswevegone:forgotten_forest": "2025-07-31 02:06:29 +0000",
@@ -1301,6 +1302,7 @@
       "biomeswevegone:ironwood_gour": "2025-08-03 23:20:49 +0000",
       "biomeswevegone:amaranth_grassland": "2025-07-25 21:08:50 +0000",
       "biomeswevegone:weeping_witch_forest": "2025-07-24 21:25:02 +0000",
+      "biomeswevegone:prairie": "2025-08-05 23:45:08 +0000",
       "biomeswevegone:ebony_woods": "2025-07-25 21:08:30 +0000",
       "biomeswevegone:basalt_barrera": "2025-07-25 21:07:45 +0000",
       "biomeswevegone:aspen_boreal": "2025-07-25 19:05:51 +0000",
@@ -6841,6 +6843,36 @@
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-08-05 22:58:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye_from_bwg_2_dye_tag": {
+    "criteria": {
+      "has_2_dye_tag": "2025-08-05 23:09:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_bwg_2_dye_tag": {
+    "criteria": {
+      "has_2_dye_tag": "2025-08-05 23:09:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-08-05 23:42:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-08-05 23:42:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-08-05 23:42:30 +0000"
     },
     "done": true
   },
