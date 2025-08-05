@@ -386,3 +386,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Aug2025 22:48:21.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 joined the game
 [05Aug2025 22:48:22.332] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sele207 (18)
 [05Aug2025 22:48:22.334] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sele207
+[05Aug2025 22:56:21.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Clara Bella (vehicle of Sele207) moved too quickly! -6.808073392033975,2.5183148413744902,-8.00193891355255
+[05Aug2025 22:58:29.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [Amateur Archaeologist]
+[05Aug2025 22:58:54.334] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-979, y=27, z=-128} BlockPos{x=-979, y=28, z=-128}
+[05Aug2025 22:59:13.494] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[05Aug2025 22:59:13.515] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[05Aug2025 22:59:21.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 drowned
+[05Aug2025 22:59:21.774] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[05Aug2025 23:03:01.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Clara Bella (vehicle of Sele207) moved wrongly! 0.4097745228897338
+[05Aug2025 23:03:01.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Clara Bella (vehicle of Sele207) moved wrongly! 0.6522781549079468
+[05Aug2025 23:03:01.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Clara Bella (vehicle of Sele207) moved wrongly! 0.868542900174532

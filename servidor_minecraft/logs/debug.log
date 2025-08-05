@@ -4981,3 +4981,25 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Aug2025 22:48:38.350] [Server thread/DEBUG] [mcp.mobius.waila.registry.RegistryFilter/]: [WTHIT] Finished in 0ms, id: 912500900
 [05Aug2025 22:51:21.157] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Aug2025 22:51:21.191] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Aug2025 22:56:16.114] [Worker-Main-1/DEBUG] [mixin/]: Mixing world.NoiseChunkAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[05Aug2025 22:56:16.115] [Worker-Main-1/DEBUG] [mixin/]: Mixing world.NoiseChunkMixin from the_bumblezone-common.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[05Aug2025 22:56:16.115] [Worker-Main-1/DEBUG] [mixin/]: Renaming synthetic method lambda$injectWrapNew$1()Lnet/minecraft/world/level/biome/Climate$Sampler; to mde642cc$lambda$injectWrapNew$1$0 in the_bumblezone-common.mixins.json:world.NoiseChunkMixin
+[05Aug2025 22:56:16.115] [Worker-Main-1/DEBUG] [mixin/]: Renaming synthetic method lambda$injectWrapNew$0()Lnet/minecraft/world/level/biome/BiomeSource; to mde642cc$lambda$injectWrapNew$0$1 in the_bumblezone-common.mixins.json:world.NoiseChunkMixin
+[05Aug2025 22:56:16.663] [Worker-Main-1/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from the_bumblezone-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05Aug2025 22:56:21.162] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Aug2025 22:56:21.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Aug2025 22:56:21.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Clara Bella (vehicle of Sele207) moved too quickly! -6.808073392033975,2.5183148413744902,-8.00193891355255
+[05Aug2025 22:58:29.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [Amateur Archaeologist]
+[05Aug2025 22:58:54.334] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-979, y=27, z=-128} BlockPos{x=-979, y=28, z=-128}
+[05Aug2025 22:59:13.494] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[05Aug2025 22:59:13.515] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[05Aug2025 22:59:21.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 drowned
+[05Aug2025 22:59:21.771] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sele207 was created at position [x:-980, y:23, z:-132, dim:minecraft:overworld]
+[05Aug2025 22:59:21.774] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[05Aug2025 22:59:29.946] [Server thread/DEBUG] [mixin/]: Mixing gameplay.CooldownInstanceAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[05Aug2025 23:01:21.059] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Aug2025 23:01:21.077] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Aug2025 23:02:11.536] [Worker-Main-25/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[05Aug2025 23:03:01.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Clara Bella (vehicle of Sele207) moved wrongly! 0.4097745228897338
+[05Aug2025 23:03:01.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Clara Bella (vehicle of Sele207) moved wrongly! 0.6522781549079468
+[05Aug2025 23:03:01.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Clara Bella (vehicle of Sele207) moved wrongly! 0.868542900174532
