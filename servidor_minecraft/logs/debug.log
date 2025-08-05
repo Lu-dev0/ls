@@ -4979,3 +4979,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Aug2025 21:43:41.612] [Server thread/DEBUG] [mixin/]: Mixing swimming.FallLocationMixin from expandability-common.mixins.json into net.minecraft.world.damagesource.FallLocation
 [05Aug2025 21:45:18.410] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Aug2025 21:45:18.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Aug2025 21:50:18.340] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Aug2025 21:50:18.367] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Aug2025 21:55:18.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Aug2025 21:55:18.330] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
