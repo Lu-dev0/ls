@@ -641,6 +641,7 @@
       "minecraft:spider": "2025-07-24 21:40:10 +0000",
       "minecraft:creeper": "2025-07-28 19:40:13 +0000",
       "minecraft:evoker": "2025-07-28 17:30:14 +0000",
+      "minecraft:phantom": "2025-08-05 20:37:12 +0000",
       "minecraft:witch": "2025-07-25 23:09:13 +0000",
       "minecraft:wither_skeleton": "2025-07-26 00:41:16 +0000",
       "minecraft:husk": "2025-07-24 21:12:53 +0000",
@@ -5673,6 +5674,7 @@
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
       "shattered": "2025-07-28 18:07:49 +0000",
+      "phantom": "2025-08-05 20:37:12 +0000",
       "sculk_snapper": "2025-07-28 18:29:26 +0000"
     },
     "done": false
@@ -6803,6 +6805,18 @@
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2025-08-04 21:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_planks_from_stripped_acacia_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-08-05 20:36:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-08-05 20:36:52 +0000"
     },
     "done": true
   },
