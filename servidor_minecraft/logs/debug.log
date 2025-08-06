@@ -4992,3 +4992,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Aug2025 22:27:13.830] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Aug2025 22:27:13.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06Aug2025 22:30:15.300] [Server thread/DEBUG] [mixin/]: Mixing blocks.PistonStructureResolverMixin from the_bumblezone-common.mixins.json into net.minecraft.world.level.block.piston.PistonStructureResolver
+[06Aug2025 22:31:09.019] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[06Aug2025 22:32:13.718] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Aug2025 22:32:13.738] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Aug2025 22:34:26.701] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1729, y=6, z=828}
+[06Aug2025 22:37:13.738] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Aug2025 22:37:13.761] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

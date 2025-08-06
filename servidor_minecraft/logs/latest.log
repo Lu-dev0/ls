@@ -390,3 +390,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Aug2025 22:22:40.584] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sele207
 [06Aug2025 22:22:40.590] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2458ms or 49 ticks behind
 [06Aug2025 22:24:46.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has reached the goal [Easy Opening]
+[06Aug2025 22:31:09.019] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[06Aug2025 22:34:26.701] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1729, y=6, z=828}
