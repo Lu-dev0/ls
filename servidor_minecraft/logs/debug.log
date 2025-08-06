@@ -4990,3 +4990,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Aug2025 14:53:24.078] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2578, y=-6, z=921}
 [06Aug2025 14:53:24.079] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2577, y=-6, z=921}
 [06Aug2025 14:53:26.790] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2560, y=-45, z=921}
+[06Aug2025 14:54:56.094] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2400, y=-11, z=997}
+[06Aug2025 14:54:56.095] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2400, y=-11, z=998}
+[06Aug2025 14:55:06.280] [Worker-Main-1/DEBUG] [mixin/]: Mixing BeehiveBlockEntity$BeeDataAccess from wthit.mixins.json into net.minecraft.world.level.block.entity.BeehiveBlockEntity$BeeData
+[06Aug2025 14:55:06.280] [Worker-Main-1/DEBUG] [mixin/]: wthit.mixins.json:BeehiveBlockEntity$BeeDataAccess: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[06Aug2025 14:55:09.762] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2268, y=-21, z=998}
+[06Aug2025 14:55:09.762] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2268, y=-21, z=996}
+[06Aug2025 14:55:46.135] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Aug2025 14:55:46.157] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Aug2025 14:58:02.334] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/11924, l='ServerLevel[world]', x=-1007.50, y=43.00, z=800.50]
+[06Aug2025 15:00:46.118] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Aug2025 15:00:46.138] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
