@@ -391,3 +391,16 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Aug2025 14:18:07.838] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/596, l='ServerLevel[world]', x=-2842.89, y=84.01, z=1121.27] died: Dinnerbone was killed by magic whilst trying to escape Sele207
 [06Aug2025 14:21:44.990] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/660, l='ServerLevel[world]', x=-2850.30, y=76.01, z=1145.14] died: Dinnerbone was shot by Dinnerbone
 [06Aug2025 14:21:50.741] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/657, l='ServerLevel[world]', x=-2846.48, y=76.01, z=1145.30] died: Dinnerbone was shot by Dinnerbone
+[06Aug2025 14:25:06.190] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/659, l='ServerLevel[world]', x=-2848.41, y=76.01, z=1147.31] died: Dinnerbone was shot by Dinnerbone
+[06Aug2025 14:26:19.391] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/635, l='ServerLevel[world]', x=-2849.90, y=76.01, z=1150.12] died: 1$s has perished from holy damage by Sele207 using [Espada de diamante]
+[06Aug2025 14:26:21.030] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/664, l='ServerLevel[world]', x=-2849.99, y=76.01, z=1151.15] died: Dinnerbone was killed by magic whilst trying to escape Sele207
+[06Aug2025 14:29:26.544] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[06Aug2025 14:29:26.558] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[06Aug2025 14:29:40.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 was slain by Spider
+[06Aug2025 14:30:45.738] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[06Aug2025 14:30:45.742] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[06Aug2025 14:30:54.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 was slain by Wither Skeleton
+[06Aug2025 14:32:33.298] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[06Aug2025 14:32:33.311] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[06Aug2025 14:32:35.336] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/26129, l='ServerLevel[world]', x=-2850.70, y=68.01, z=1119.18] died: Dinnerbone was shot by Dinnerbone
+[06Aug2025 14:32:40.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 was slain by Cave Spider
