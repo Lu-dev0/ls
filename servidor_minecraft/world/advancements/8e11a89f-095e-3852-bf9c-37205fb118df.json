@@ -747,6 +747,7 @@
       "minecraft:lukewarm_ocean": "2025-07-26 03:14:20 +0000",
       "minecraft:stony_shore": "2025-07-28 18:05:37 +0000",
       "minecraft:dripstone_caves": "2025-07-28 17:43:12 +0000",
+      "minecraft:cold_ocean": "2025-08-05 23:49:45 +0000",
       "minecraft:forest": "2025-07-27 21:27:19 +0000",
       "minecraft:lush_caves": "2025-07-25 21:12:28 +0000",
       "minecraft:windswept_forest": "2025-08-03 23:19:03 +0000",
@@ -6855,6 +6856,18 @@
   "minecraft:recipes/misc/white_dye_from_bwg_2_dye_tag": {
     "criteria": {
       "has_2_dye_tag": "2025-08-05 23:09:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-08-05 23:53:12 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2025-08-05 23:49:31 +0000"
     },
     "done": true
   },
