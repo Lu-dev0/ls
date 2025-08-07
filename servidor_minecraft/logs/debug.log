@@ -4981,3 +4981,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Aug2025 19:43:38.824] [Server thread/DEBUG] [mixin/]: Mixing swimming.FallLocationMixin from expandability-common.mixins.json into net.minecraft.world.damagesource.FallLocation
 [07Aug2025 19:46:50.636] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Aug2025 19:46:50.666] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 19:51:50.570] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 19:51:50.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 19:56:50.534] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 19:56:50.553] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 20:00:53.444] [Worker-Main-3/DEBUG] [mixin/]: Mixing world.NoiseChunkAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[07Aug2025 20:00:53.444] [Worker-Main-3/DEBUG] [mixin/]: Mixing world.NoiseChunkMixin from the_bumblezone-common.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[07Aug2025 20:00:53.445] [Worker-Main-3/DEBUG] [mixin/]: Renaming synthetic method lambda$injectWrapNew$1()Lnet/minecraft/world/level/biome/Climate$Sampler; to mdc26394$lambda$injectWrapNew$1$0 in the_bumblezone-common.mixins.json:world.NoiseChunkMixin
+[07Aug2025 20:00:53.445] [Worker-Main-3/DEBUG] [mixin/]: Renaming synthetic method lambda$injectWrapNew$0()Lnet/minecraft/world/level/biome/BiomeSource; to mdc26394$lambda$injectWrapNew$0$1 in the_bumblezone-common.mixins.json:world.NoiseChunkMixin
+[07Aug2025 20:00:53.700] [Worker-Main-1/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
