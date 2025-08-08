@@ -391,3 +391,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Aug2025 19:41:19.765] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sele207 (18)
 [08Aug2025 19:41:19.770] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sele207
 [08Aug2025 19:41:37.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lu_dev> [x:-2802, y:185, z:69, dim:minecraft:overworld]
+[08Aug2025 19:44:06.553] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2145, y=-22, z=242}
+[08Aug2025 19:44:08.313] [Worker-Main-16/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2144, y=-18, z=58}
+[08Aug2025 19:44:09.849] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sele207 moved wrongly!
+[08Aug2025 19:44:18.558] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2172, y=-6, z=293}
+[08Aug2025 19:44:56.414] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2924, y=-1, z=-148}
+[08Aug2025 19:45:56.410] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[08Aug2025 19:45:56.423] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[08Aug2025 19:52:10.489] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[08Aug2025 19:52:10.502] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[08Aug2025 19:52:21.594] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[08Aug2025 19:52:21.606] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
+[08Aug2025 19:52:28.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 was slain by Dragon
+[08Aug2025 19:52:32.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev was slain by Dragon
+[08Aug2025 19:52:37.596] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3122ms or 62 ticks behind
