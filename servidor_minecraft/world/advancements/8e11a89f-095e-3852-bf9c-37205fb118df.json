@@ -1301,6 +1301,7 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:redwood_thicket": "2025-08-08 22:57:54 +0000",
       "biomeswevegone:crag_gardens": "2025-07-26 03:27:26 +0000",
       "biomeswevegone:fragment_jungle": "2025-07-25 21:15:54 +0000",
       "biomeswevegone:sakura_grove": "2025-08-05 23:06:19 +0000",
@@ -7153,12 +7154,6 @@
       "has_netherite_ingot": "2025-08-08 19:14:13 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-08-08 22:56:51 +0000"
-    },
-    "done": false
   },
   "DataVersion": 3465
 }

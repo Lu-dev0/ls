@@ -526,3 +526,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Aug2025 23:00:27.313] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
 [08Aug2025 23:00:27.315] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
 [08Aug2025 23:00:34.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 fell from a high place
+[08Aug2025 23:06:15.976] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1926, y=4, z=479}
+[08Aug2025 23:06:15.976] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1927, y=4, z=479}
+[08Aug2025 23:06:20.060] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2032, y=-38, z=533}
+[08Aug2025 23:06:20.061] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2033, y=-38, z=533}
+[08Aug2025 23:06:29.088] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/70883, l='ServerLevel[world]', x=-1911.50, y=40.00, z=453.50]
