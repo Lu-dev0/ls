@@ -765,6 +765,7 @@
       "minecraft:windswept_savanna": "2025-07-30 23:53:42 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-26 03:08:37 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-24 21:33:16 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-08-08 18:33:48 +0000",
       "minecraft:plains": "2025-07-27 21:29:39 +0000"
     },
     "done": false
@@ -7059,6 +7060,24 @@
   "biomeswevegone:recipes/misc/cattail_thatch": {
     "criteria": {
       "has_cattail_sprout": "2025-08-08 17:26:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-08-08 18:34:31 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/food/blueberry_pie": {
+    "criteria": {
+      "has_blueberries": "2025-08-08 18:34:31 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/berrily_alive": {
+    "criteria": {
+      "blue_berry": "2025-08-08 18:34:31 +0000"
     },
     "done": true
   },
