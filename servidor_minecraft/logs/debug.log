@@ -4980,3 +4980,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Aug2025 19:05:12.960] [Server thread/DEBUG] [mcp.mobius.waila.registry.RegistryFilter/]: [WTHIT] Finished in 0ms, id: 1998148574
 [08Aug2025 19:08:02.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Aug2025 19:08:02.153] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 19:13:02.072] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 19:13:02.094] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 19:18:02.048] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 19:18:02.069] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
