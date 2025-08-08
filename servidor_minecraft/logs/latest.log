@@ -471,3 +471,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Aug2025 22:30:18.204] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
 [08Aug2025 22:30:43.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/25469, l='ServerLevel[world]', x=-2790.30, y=83.01, z=46.72] died: Dinnerbone was shot by Dinnerbone
 [08Aug2025 22:30:46.604] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/27941, l='ServerLevel[world]', x=-2790.30, y=83.01, z=46.26] died: Dinnerbone was shot by Dinnerbone
+[08Aug2025 22:31:12.246] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/29147, l='ServerLevel[world]', x=-2805.63, y=76.01, z=60.39] died: Dinnerbone was killed by magic whilst trying to escape Lu_dev
+[08Aug2025 22:31:12.446] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/29506, l='ServerLevel[world]', x=-2805.70, y=75.01, z=59.55] died: 1$s has perished from holy damage by Lu_dev using [Espada de diamante]
+[08Aug2025 22:31:27.446] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/27671, l='ServerLevel[world]', x=-2781.42, y=75.01, z=57.80] died: Dinnerbone was shot by Dinnerbone
+[08Aug2025 22:32:08.600] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/29543, l='ServerLevel[world]', x=-2812.84, y=75.01, z=46.65] died: Dinnerbone was shot by Dinnerbone
+[08Aug2025 22:32:51.148] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/29232, l='ServerLevel[world]', x=-2790.26, y=75.01, z=58.39] died: Dinnerbone was shot by Dinnerbone
+[08Aug2025 22:33:07.252] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/26851, l='ServerLevel[world]', x=-2806.65, y=75.01, z=48.54] died: Dinnerbone was shot by Dinnerbone
+[08Aug2025 22:33:42.012] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-3041, y=0, z=-90}
+[08Aug2025 22:33:42.012] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-3041, y=1, z=-90}
+[08Aug2025 22:33:42.012] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-3043, y=0, z=-90}
+[08Aug2025 22:33:42.409] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-3043, y=11, z=-23}
+[08Aug2025 22:34:09.996] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[08Aug2025 22:34:10.000] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[08Aug2025 22:34:17.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 was slain by Cave Spider
+[08Aug2025 22:39:23.513] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2497, y=28, z=347}
+[08Aug2025 22:40:56.546] [Server thread/WARN] [tombstone/]: The death event of the player Lu_dev was canceled by another mod
+[08Aug2025 22:40:56.557] [Server thread/INFO] [tombstone/]: The player Lu_dev has successfully been saved
