@@ -5787,29 +5787,71 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_sign_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-08-08 22:53:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_wood_woodcutting": {
     "criteria": {
       "give_recipe": "2025-08-08 22:29:31 +0000"
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/woodcutting/dark_oak/crafting_table_from_dark_oak_planks_woodcutting": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 22:46:51 +0000"
+      "give_recipe": "2025-08-08 22:53:02 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:recipes/woodcutting/dark_oak/chest_from_dark_oak_planks_woodcutting": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 22:46:51 +0000"
+      "give_recipe": "2025-08-08 22:53:02 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_door_from_dark_oak_planks_woodcutting": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 22:46:51 +0000"
+      "give_recipe": "2025-08-08 22:53:02 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_trapdoor_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-08-08 22:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-08-08 22:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_gate_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-08-08 22:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-08 22:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_slab_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-08-08 22:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-08-08 22:53:02 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/woodcutting/dark_oak/stripped_dark_oak_wood_from_dark_oak_wood_woodcutting": {
     "criteria": {
@@ -5817,11 +5859,11 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_chest_boat_from_dark_oak_planks_woodcutting": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 22:46:51 +0000"
+      "give_recipe": "2025-08-08 22:53:02 +0000"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/easy_opening": {
     "criteria": {
@@ -5829,41 +5871,53 @@
     },
     "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 22:46:51 +0000"
+      "has_planks": "2025-08-08 22:53:02 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_boat_from_dark_oak_planks_woodcutting": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 22:46:51 +0000"
+      "give_recipe": "2025-08-08 22:53:02 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 22:46:51 +0000"
+      "has_planks": "2025-08-08 22:53:02 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_stairs_from_dark_oak_planks_woodcutting": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 22:46:51 +0000"
+      "give_recipe": "2025-08-08 22:53:02 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 22:46:51 +0000"
+      "has_planks": "2025-08-08 22:53:02 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 22:46:51 +0000"
+      "has_planks": "2025-08-08 22:53:02 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_button_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-08-08 22:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/barrel_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-08-08 22:53:02 +0000"
+    },
+    "done": true
   },
   "alexsmobs:alexsmobs/tigers_blessing": {
     "criteria": {
@@ -5877,17 +5931,29 @@
     },
     "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 22:46:51 +0000"
+      "has_planks": "2025-08-08 22:53:02 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 22:46:51 +0000"
+      "has_planks": "2025-08-08 22:53:02 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_pressure_plate_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-08-08 22:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-08-08 22:53:02 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
