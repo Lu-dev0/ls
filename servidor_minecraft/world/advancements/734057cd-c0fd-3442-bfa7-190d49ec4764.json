@@ -5800,6 +5800,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-08 23:22:52 +0000"
+    },
+    "done": false
+  },
   "the_bumblezone:pollen_pile/hide_in_pollen_pile": {
     "criteria": {
       "strong_hidden": "2025-08-08 23:16:23 +0000"
@@ -5821,6 +5827,13 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_door_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-08-08 22:53:02 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-08-08 23:23:04 +0000",
+      "log_spam_fixer": "2025-08-08 23:22:52 +0000"
     },
     "done": true
   },
@@ -5854,6 +5867,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-08 23:22:52 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-08-08 22:53:02 +0000"
@@ -5866,6 +5885,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-08 23:22:52 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_chest_boat_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-08-08 22:53:02 +0000"
@@ -5877,6 +5902,18 @@
       "coded_trigger": "2025-08-08 22:05:20 +0000"
     },
     "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-08 23:22:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-08 23:22:52 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
@@ -5902,11 +5939,23 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-08 23:22:52 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-08 22:53:02 +0000"
     },
     "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-08 23:22:52 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
@@ -5920,11 +5969,23 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-08 23:22:52 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/woodcutting/dark_oak/barrel_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-08-08 22:53:02 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-08 23:22:52 +0000"
+    },
+    "done": false
   },
   "alexsmobs:alexsmobs/tigers_blessing": {
     "criteria": {
@@ -5944,6 +6005,12 @@
     },
     "done": true
   },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-08 23:22:52 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-08-08 22:53:02 +0000"
@@ -5961,6 +6028,12 @@
       "has_planks": "2025-08-08 22:53:02 +0000"
     },
     "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-08 23:22:52 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

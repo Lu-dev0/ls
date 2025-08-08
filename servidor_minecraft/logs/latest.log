@@ -531,3 +531,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Aug2025 23:06:20.060] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2032, y=-38, z=533}
 [08Aug2025 23:06:20.061] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2033, y=-38, z=533}
 [08Aug2025 23:06:29.088] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/70883, l='ServerLevel[world]', x=-1911.50, y=40.00, z=453.50]
+[08Aug2025 23:22:34.950] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DireWolfEntity['Sirius Black'/97378, l='ServerLevel[world]', x=-427.21, y=220.00, z=391.93] died: Sirius Black fell from a high place
+[08Aug2025 23:23:37.308] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lu_dev lost connection: Timed out
+[08Aug2025 23:23:37.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lu_dev left the game
+[08Aug2025 23:23:37.313] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Lu_dev
+[08Aug2025 23:23:37.351] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Aug2025 23:23:39.841] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sele207 lost connection: Disconnected
+[08Aug2025 23:23:39.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 left the game
+[08Aug2025 23:23:39.842] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sele207
+[08Aug2025 23:25:35.401] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sele207[/127.71.179.52:57831] logged in with entity id 100487 at (-193.99024734079032, 219.5, 299.26605116378136)
+[08Aug2025 23:25:35.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 joined the game
+[08Aug2025 23:25:35.719] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sele207 (18)
+[08Aug2025 23:25:35.720] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sele207
