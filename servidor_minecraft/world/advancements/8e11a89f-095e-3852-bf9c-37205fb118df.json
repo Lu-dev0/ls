@@ -7081,5 +7081,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-08-08 18:38:16 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
