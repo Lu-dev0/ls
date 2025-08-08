@@ -543,3 +543,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Aug2025 23:25:35.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 joined the game
 [08Aug2025 23:25:35.719] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sele207 (18)
 [08Aug2025 23:25:35.720] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sele207
+[08Aug2025 23:40:48.643] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sele207 lost connection: Disconnected
+[08Aug2025 23:40:48.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 left the game
+[08Aug2025 23:40:48.644] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sele207

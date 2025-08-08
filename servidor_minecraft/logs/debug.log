@@ -5645,3 +5645,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Aug2025 23:26:51.616] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [08Aug2025 23:31:51.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Aug2025 23:31:51.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 23:36:51.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 23:36:51.616] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 23:40:48.643] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sele207 lost connection: Disconnected
+[08Aug2025 23:40:48.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 left the game
+[08Aug2025 23:40:48.644] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Sele207
+[08Aug2025 23:40:48.644] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sele207
+[08Aug2025 23:41:51.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 23:41:51.597] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
