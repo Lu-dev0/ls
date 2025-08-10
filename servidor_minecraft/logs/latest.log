@@ -388,3 +388,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Aug2025 19:23:16.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 joined the game
 [10Aug2025 19:23:21.102] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sele207 (18)
 [10Aug2025 19:23:21.105] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sele207
+[10Aug2025 19:41:30.925] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[10Aug2025 19:41:30.928] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[10Aug2025 19:41:38.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 burned to death
+[10Aug2025 19:48:22.150] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=799, y=-6, z=-697}
+[10Aug2025 19:48:22.151] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=799, y=-6, z=-696}
