@@ -393,3 +393,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Aug2025 19:41:38.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 burned to death
 [10Aug2025 19:48:22.150] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=799, y=-6, z=-697}
 [10Aug2025 19:48:22.151] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=799, y=-6, z=-696}
+[10Aug2025 19:53:09.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sele207 was kicked for floating a vehicle too long!
+[10Aug2025 19:53:09.970] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sele207 lost connection: Disconnected
+[10Aug2025 19:53:09.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 left the game
+[10Aug2025 19:53:09.975] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sele207
+[10Aug2025 19:53:10.015] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10Aug2025 19:54:07.556] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2ae2e1b7[id=<null>,name=Sele207,properties={},legacy=false] (/127.71.179.52:40049) lost connection: Disconnected
+[10Aug2025 19:54:48.681] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sele207[/127.71.179.52:56531] logged in with entity id 24276 at (-654.9905718072497, 87.01754278462978, -3068.889171036256)
+[10Aug2025 19:54:48.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 joined the game
+[10Aug2025 19:54:50.129] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sele207 (18)
+[10Aug2025 19:54:50.130] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sele207
+[10Aug2025 19:55:13.395] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-756, y=6, z=-2920}
+[10Aug2025 19:55:13.396] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-755, y=6, z=-2920}
+[10Aug2025 19:57:45.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 has made the advancement [Smitty WerbenJagerManJensen]
+[10Aug2025 19:57:56.675] [Server thread/WARN] [tombstone/]: The death event of the player Sele207 was canceled by another mod
+[10Aug2025 19:57:56.682] [Server thread/INFO] [tombstone/]: The player Sele207 has successfully been saved
+[10Aug2025 19:58:03.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sele207 was slain by Zombie
+[10Aug2025 19:58:28.275] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-714, y=38, z=-4239}
